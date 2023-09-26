@@ -1,0 +1,2576 @@
+03-16-2017 @ 05:56:30 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 05:56:30 - Parsing products CSV.
+03-16-2017 @ 05:56:30 - Finished parsing products CSV.
+03-16-2017 @ 05:56:30 - ---
+03-16-2017 @ 05:56:30 - Processing products.
+03-16-2017 @ 05:56:30 - > Row 1 - preparing for import.
+03-16-2017 @ 05:56:30 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:56:30 - > Inserting Watch
+03-16-2017 @ 05:56:31 - > Inserted - post ID is 2993.
+03-16-2017 @ 05:56:32 - > > Importing image "http://melabazar.com/wp-content/uploads/2017/01/w-1.png"
+03-16-2017 @ 05:56:34 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2017/01/w-1.png"
+03-16-2017 @ 05:56:34 - > > Imported image "http://melabazar.com/wp-content/uploads/2017/01/w-1.png"
+03-16-2017 @ 05:56:34 - > > Images set
+03-16-2017 @ 05:56:34 - > Finished importing post ID 2993.
+03-16-2017 @ 05:56:34 - > Row 2 - preparing for import.
+03-16-2017 @ 05:56:34 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:56:34 - > &#8220;Korean Nano Microfiber Anti Slip Memory Mat&#8221;Product already exists.
+03-16-2017 @ 05:56:34 - > Row 3 - preparing for import.
+03-16-2017 @ 05:56:34 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:56:34 - > &#8220;Korean Nano Microfiber Anti Slip Memory Mat&#8221;Product already exists.
+03-16-2017 @ 05:56:34 - > Row 4 - preparing for import.
+03-16-2017 @ 05:56:34 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:56:35 - > Inserting Korean Nano Microfiber Anti Slip Memory Mat
+03-16-2017 @ 05:56:35 - > Inserted - post ID is 2977.
+03-16-2017 @ 05:56:36 - > Finished importing post ID 2977.
+03-16-2017 @ 05:56:36 - > Row 5 - preparing for import.
+03-16-2017 @ 05:56:36 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:56:36 - > Inserting SILKYGIRL PURE FRESH ALL-IN-ONE GEL MAKEUP REMOVER - 55ml
+03-16-2017 @ 05:56:37 - > Inserted - post ID is 2974.
+03-16-2017 @ 05:56:38 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/DSC05094.jpg"
+03-16-2017 @ 05:56:40 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/DSC05094.jpg"
+03-16-2017 @ 05:56:40 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/DSC05094.jpg"
+03-16-2017 @ 05:56:40 - > > Images set
+03-16-2017 @ 05:56:40 - > Finished importing post ID 2974.
+03-16-2017 @ 05:56:40 - > Row 6 - preparing for import.
+03-16-2017 @ 05:56:40 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:56:40 - > Inserting Bed sheet ( Code – 277 )
+03-16-2017 @ 05:56:41 - > Inserted - post ID is 2937.
+03-16-2017 @ 05:56:42 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/c-u46.png"
+03-16-2017 @ 05:56:46 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/c-u46.png"
+03-16-2017 @ 05:56:46 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/c-u46.png"
+03-16-2017 @ 05:56:46 - > > Images set
+03-16-2017 @ 05:56:46 - > Finished importing post ID 2937.
+03-16-2017 @ 05:56:46 - > Row 7 - preparing for import.
+03-16-2017 @ 05:56:46 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:56:46 - > Inserting Bed sheet ( Code – 275 )
+03-16-2017 @ 05:56:46 - > Inserted - post ID is 2935.
+03-16-2017 @ 05:56:48 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/c-135.png"
+03-16-2017 @ 05:56:51 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/c-135.png"
+03-16-2017 @ 05:56:51 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/c-135.png"
+03-16-2017 @ 05:56:51 - > > Images set
+03-16-2017 @ 05:56:51 - > Finished importing post ID 2935.
+03-16-2017 @ 05:56:51 - > Row 8 - preparing for import.
+03-16-2017 @ 05:56:51 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:56:51 - > Inserting Bed sheet ( Code – 276 )
+03-16-2017 @ 05:56:51 - > Inserted - post ID is 2933.
+03-16-2017 @ 05:56:53 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/ca-524.png"
+03-16-2017 @ 05:56:57 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/ca-524.png"
+03-16-2017 @ 05:56:57 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/ca-524.png"
+03-16-2017 @ 05:56:57 - > > Images set
+03-16-2017 @ 05:56:57 - > Finished importing post ID 2933.
+03-16-2017 @ 05:56:57 - > Row 9 - preparing for import.
+03-16-2017 @ 05:56:57 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:56:57 - > Inserting Bed sheet ( Code – 274 )
+03-16-2017 @ 05:56:57 - > Inserted - post ID is 2930.
+03-16-2017 @ 05:56:59 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/cd-19.png"
+03-16-2017 @ 05:57:02 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/cd-19.png"
+03-16-2017 @ 05:57:02 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/cd-19.png"
+03-16-2017 @ 05:57:02 - > > Images set
+03-16-2017 @ 05:57:02 - > Finished importing post ID 2930.
+03-16-2017 @ 05:57:02 - Finished processing products.
+03-16-2017 @ 05:57:05 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 05:57:05 - Parsing products CSV.
+03-16-2017 @ 05:57:05 - Finished parsing products CSV.
+03-16-2017 @ 05:57:05 - ---
+03-16-2017 @ 05:57:05 - Processing products.
+03-16-2017 @ 05:57:05 - > Row 1 - preparing for import.
+03-16-2017 @ 05:57:05 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:57:05 - > Inserting Bed sheet ( Code – 279 )
+03-16-2017 @ 05:57:06 - > Inserted - post ID is 2927.
+03-16-2017 @ 05:57:07 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/cd-46.png"
+03-16-2017 @ 05:57:11 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/cd-46.png"
+03-16-2017 @ 05:57:11 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/cd-46.png"
+03-16-2017 @ 05:57:11 - > > Images set
+03-16-2017 @ 05:57:11 - > Finished importing post ID 2927.
+03-16-2017 @ 05:57:11 - > Row 2 - preparing for import.
+03-16-2017 @ 05:57:11 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:57:11 - > Inserting Bed sheet ( Code – 283 )
+03-16-2017 @ 05:57:11 - > Inserted - post ID is 2925.
+03-16-2017 @ 05:57:13 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/c-17.png"
+03-16-2017 @ 05:57:16 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/c-17.png"
+03-16-2017 @ 05:57:16 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/c-17.png"
+03-16-2017 @ 05:57:16 - > > Images set
+03-16-2017 @ 05:57:16 - > Finished importing post ID 2925.
+03-16-2017 @ 05:57:16 - > Row 3 - preparing for import.
+03-16-2017 @ 05:57:16 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:57:16 - > Inserting Bed sheet ( Code – 278 )
+03-16-2017 @ 05:57:17 - > Inserted - post ID is 2923.
+03-16-2017 @ 05:57:18 - > Finished importing post ID 2923.
+03-16-2017 @ 05:57:18 - > Row 4 - preparing for import.
+03-16-2017 @ 05:57:18 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:57:18 - > Inserting Bed sheet ( Code – 282 )
+03-16-2017 @ 05:57:18 - > Inserted - post ID is 2921.
+03-16-2017 @ 05:57:21 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/cd35.png"
+03-16-2017 @ 05:57:24 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/cd35.png"
+03-16-2017 @ 05:57:24 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/cd35.png"
+03-16-2017 @ 05:57:24 - > > Images set
+03-16-2017 @ 05:57:24 - > Finished importing post ID 2921.
+03-16-2017 @ 05:57:24 - > Row 5 - preparing for import.
+03-16-2017 @ 05:57:24 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:57:24 - > Inserting Bed sheet ( Code – 281 )
+03-16-2017 @ 05:57:25 - > Inserted - post ID is 2919.
+03-16-2017 @ 05:57:26 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/cd59.png"
+03-16-2017 @ 05:57:30 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/cd59.png"
+03-16-2017 @ 05:57:30 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/cd59.png"
+03-16-2017 @ 05:57:30 - > > Images set
+03-16-2017 @ 05:57:30 - > Finished importing post ID 2919.
+03-16-2017 @ 05:57:30 - > Row 6 - preparing for import.
+03-16-2017 @ 05:57:30 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:57:30 - > Inserting Bed sheet ( Code – 278 )
+03-16-2017 @ 05:57:31 - > Inserted - post ID is 2917.
+03-16-2017 @ 05:57:33 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/cd-1.png"
+03-16-2017 @ 05:57:36 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/cd-1.png"
+03-16-2017 @ 05:57:36 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/cd-1.png"
+03-16-2017 @ 05:57:37 - > > Images set
+03-16-2017 @ 05:57:37 - > Finished importing post ID 2917.
+03-16-2017 @ 05:57:37 - > Row 7 - preparing for import.
+03-16-2017 @ 05:57:37 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:57:37 - > Inserting FABRICS &gt;(Code: 4668 )
+03-16-2017 @ 05:57:37 - > Inserted - post ID is 2914.
+03-16-2017 @ 05:57:40 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/ty-43.png"
+03-16-2017 @ 05:57:42 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/ty-43.png"
+03-16-2017 @ 05:57:42 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/ty-43.png"
+03-16-2017 @ 05:57:42 - > > Images set
+03-16-2017 @ 05:57:42 - > Finished importing post ID 2914.
+03-16-2017 @ 05:57:42 - > Row 8 - preparing for import.
+03-16-2017 @ 05:57:42 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:57:42 - > Inserting FABRICS &gt; BODY (GEORGETTE)(Code: 4664)
+03-16-2017 @ 05:57:43 - > Inserted - post ID is 2912.
+03-16-2017 @ 05:57:44 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/ty-59-1.png"
+03-16-2017 @ 05:57:46 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/ty-59-1.png"
+03-16-2017 @ 05:57:46 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/ty-59-1.png"
+03-16-2017 @ 05:57:46 - > > Images set
+03-16-2017 @ 05:57:47 - > Finished importing post ID 2912.
+03-16-2017 @ 05:57:47 - > Row 9 - preparing for import.
+03-16-2017 @ 05:57:47 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:57:47 - > Inserting FABRIC = GEORGETTE( Code: 4621)
+03-16-2017 @ 05:57:47 - > Inserted - post ID is 2910.
+03-16-2017 @ 05:57:49 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/tr-58.png"
+03-16-2017 @ 05:57:51 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/tr-58.png"
+03-16-2017 @ 05:57:51 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/tr-58.png"
+03-16-2017 @ 05:57:52 - > > Images set
+03-16-2017 @ 05:57:52 - > Finished importing post ID 2910.
+03-16-2017 @ 05:57:52 - > Row 10 - preparing for import.
+03-16-2017 @ 05:57:52 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:57:52 - > Inserting FABRIC = GEORGETTE( Code:4577 )
+03-16-2017 @ 05:57:52 - > Inserted - post ID is 2908.
+03-16-2017 @ 05:57:54 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/tr-10.png"
+03-16-2017 @ 05:57:55 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/tr-10.png"
+03-16-2017 @ 05:57:55 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/tr-10.png"
+03-16-2017 @ 05:57:55 - > > Images set
+03-16-2017 @ 05:57:55 - > Finished importing post ID 2908.
+03-16-2017 @ 05:57:55 - Finished processing products.
+03-16-2017 @ 05:57:59 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 05:57:59 - Parsing products CSV.
+03-16-2017 @ 05:57:59 - Finished parsing products CSV.
+03-16-2017 @ 05:57:59 - ---
+03-16-2017 @ 05:57:59 - Processing products.
+03-16-2017 @ 05:57:59 - > Row 1 - preparing for import.
+03-16-2017 @ 05:57:59 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:57:59 - > Inserting 
+03-16-2017 @ 05:57:59 - > Inserted - post ID is 2901.
+03-16-2017 @ 05:58:01 - > Finished importing post ID 2901.
+03-16-2017 @ 05:58:01 - > Row 2 - preparing for import.
+03-16-2017 @ 05:58:01 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:58:01 - > Inserting FABRICS &gt; BODY (TOP QUALITY ) (Code: 4607 )
+03-16-2017 @ 05:58:02 - > Inserted - post ID is 2899.
+03-16-2017 @ 05:58:04 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/ty-59.png"
+03-16-2017 @ 05:58:06 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/ty-59.png"
+03-16-2017 @ 05:58:06 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/ty-59.png"
+03-16-2017 @ 05:58:06 - > > Images set
+03-16-2017 @ 05:58:06 - > Finished importing post ID 2899.
+03-16-2017 @ 05:58:06 - > Row 3 - preparing for import.
+03-16-2017 @ 05:58:06 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:58:06 - > Inserting FABRICS &gt; BODY (TOP QUALITY COTTON) (Code: 4599)
+03-16-2017 @ 05:58:06 - > Inserted - post ID is 2897.
+03-16-2017 @ 05:58:08 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/ty-14.png"
+03-16-2017 @ 05:58:10 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/ty-14.png"
+03-16-2017 @ 05:58:10 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/ty-14.png"
+03-16-2017 @ 05:58:10 - > > Images set
+03-16-2017 @ 05:58:10 - > Finished importing post ID 2897.
+03-16-2017 @ 05:58:10 - > Row 4 - preparing for import.
+03-16-2017 @ 05:58:10 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:58:10 - > Inserting FABRICS &gt; BODY (COTTON) ( Code : 4590 )
+03-16-2017 @ 05:58:10 - > Inserted - post ID is 2895.
+03-16-2017 @ 05:58:12 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/ty.png"
+03-16-2017 @ 05:58:14 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/ty.png"
+03-16-2017 @ 05:58:14 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/ty.png"
+03-16-2017 @ 05:58:14 - > > Images set
+03-16-2017 @ 05:58:15 - > Finished importing post ID 2895.
+03-16-2017 @ 05:58:15 - > Row 5 - preparing for import.
+03-16-2017 @ 05:58:15 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:58:15 - > Inserting FABRICS &amp; (SOFT GEORGETTE BODY) (Code, 4584)
+03-16-2017 @ 05:58:15 - > Inserted - post ID is 2889.
+03-16-2017 @ 05:58:17 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/ty-13.png"
+03-16-2017 @ 05:58:20 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/ty-13.png"
+03-16-2017 @ 05:58:20 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/ty-13.png"
+03-16-2017 @ 05:58:20 - > > Images set
+03-16-2017 @ 05:58:20 - > Finished importing post ID 2889.
+03-16-2017 @ 05:58:20 - > Row 6 - preparing for import.
+03-16-2017 @ 05:58:20 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:58:20 - > Inserting FABRIC / GEORGETTE - (Code - 4648 )
+03-16-2017 @ 05:58:21 - > Inserted - post ID is 2887.
+03-16-2017 @ 05:58:23 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/t-49-1.png"
+03-16-2017 @ 05:58:25 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/t-49-1.png"
+03-16-2017 @ 05:58:25 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/t-49-1.png"
+03-16-2017 @ 05:58:25 - > > Images set
+03-16-2017 @ 05:58:26 - > Finished importing post ID 2887.
+03-16-2017 @ 05:58:26 - > Row 7 - preparing for import.
+03-16-2017 @ 05:58:26 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:58:26 - > Inserting FABRIC / GEORGETTE - (Code - 4670 )
+03-16-2017 @ 05:58:26 - > Inserted - post ID is 2885.
+03-16-2017 @ 05:58:28 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/t-85.png"
+03-16-2017 @ 05:58:30 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/t-85.png"
+03-16-2017 @ 05:58:30 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/t-85.png"
+03-16-2017 @ 05:58:31 - > > Images set
+03-16-2017 @ 05:58:31 - > Finished importing post ID 2885.
+03-16-2017 @ 05:58:31 - > Row 8 - preparing for import.
+03-16-2017 @ 05:58:31 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:58:31 - > Inserting FABRIC  - (Code - 4667 )
+03-16-2017 @ 05:58:31 - > Inserted - post ID is 2883.
+03-16-2017 @ 05:58:33 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/tt-82.png"
+03-16-2017 @ 05:58:36 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/tt-82.png"
+03-16-2017 @ 05:58:36 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/tt-82.png"
+03-16-2017 @ 05:58:36 - > > Images set
+03-16-2017 @ 05:58:36 - > Finished importing post ID 2883.
+03-16-2017 @ 05:58:36 - > Row 9 - preparing for import.
+03-16-2017 @ 05:58:36 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:58:36 - > Inserting FABRIC - (Code - 4652 )
+03-16-2017 @ 05:58:36 - > Inserted - post ID is 2879.
+03-16-2017 @ 05:58:38 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/ty-54.png"
+03-16-2017 @ 05:58:40 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/ty-54.png"
+03-16-2017 @ 05:58:40 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/ty-54.png"
+03-16-2017 @ 05:58:40 - > > Images set
+03-16-2017 @ 05:58:40 - > Finished importing post ID 2879.
+03-16-2017 @ 05:58:40 - > Row 10 - preparing for import.
+03-16-2017 @ 05:58:40 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:58:40 - > Inserting FABRICS (SOFT GEORGETTE BODY) (Code - 4596 )
+03-16-2017 @ 05:58:41 - > Inserted - post ID is 2852.
+03-16-2017 @ 05:58:42 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/t-4596.png"
+03-16-2017 @ 05:58:45 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/t-4596.png"
+03-16-2017 @ 05:58:45 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/t-4596.png"
+03-16-2017 @ 05:58:45 - > > Images set
+03-16-2017 @ 05:58:45 - > Finished importing post ID 2852.
+03-16-2017 @ 05:58:45 - Finished processing products.
+03-16-2017 @ 05:58:48 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 05:58:48 - Parsing products CSV.
+03-16-2017 @ 05:58:48 - Finished parsing products CSV.
+03-16-2017 @ 05:58:48 - ---
+03-16-2017 @ 05:58:48 - Processing products.
+03-16-2017 @ 05:58:48 - > Row 1 - preparing for import.
+03-16-2017 @ 05:58:48 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:58:48 - > Inserting FABRICS &gt; BODY ( Cotton ) (Code - 045 )
+03-16-2017 @ 05:58:49 - > Inserted - post ID is 2849.
+03-16-2017 @ 05:58:51 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/t-123.png"
+03-16-2017 @ 05:58:53 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/t-123.png"
+03-16-2017 @ 05:58:53 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/t-123.png"
+03-16-2017 @ 05:58:54 - > > Images set
+03-16-2017 @ 05:58:54 - > Finished importing post ID 2849.
+03-16-2017 @ 05:58:54 - > Row 2 - preparing for import.
+03-16-2017 @ 05:58:54 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:58:54 - > Inserting FABRIC / GEORGETTE - (Code - 4614)
+03-16-2017 @ 05:58:54 - > Inserted - post ID is 2847.
+03-16-2017 @ 05:58:57 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/tt-461.png"
+03-16-2017 @ 05:58:59 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/tt-461.png"
+03-16-2017 @ 05:58:59 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/tt-461.png"
+03-16-2017 @ 05:58:59 - > > Images set
+03-16-2017 @ 05:58:59 - > Finished importing post ID 2847.
+03-16-2017 @ 05:58:59 - > Row 3 - preparing for import.
+03-16-2017 @ 05:58:59 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:58:59 - > Inserting FABRICS &gt; (SOFT GEORGETTE BODY) - (Code - 4602)
+03-16-2017 @ 05:58:59 - > Inserted - post ID is 2845.
+03-16-2017 @ 05:59:02 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/12/t96.png"
+03-16-2017 @ 05:59:04 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/12/t96.png"
+03-16-2017 @ 05:59:04 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/12/t96.png"
+03-16-2017 @ 05:59:04 - > > Images set
+03-16-2017 @ 05:59:04 - > Finished importing post ID 2845.
+03-16-2017 @ 05:59:04 - > Row 4 - preparing for import.
+03-16-2017 @ 05:59:04 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:59:04 - > Inserting FABRIC / GEORGETTE - (Code - 4673 )
+03-16-2017 @ 05:59:05 - > Inserted - post ID is 2843.
+03-16-2017 @ 05:59:08 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/t-35.png"
+03-16-2017 @ 05:59:10 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/t-35.png"
+03-16-2017 @ 05:59:10 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/t-35.png"
+03-16-2017 @ 05:59:10 - > > Images set
+03-16-2017 @ 05:59:10 - > Finished importing post ID 2843.
+03-16-2017 @ 05:59:10 - > Row 5 - preparing for import.
+03-16-2017 @ 05:59:10 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:59:10 - > Inserting FABRIC / GEORGETTE - (Code - 4575 )
+03-16-2017 @ 05:59:11 - > Inserted - post ID is 2841.
+03-16-2017 @ 05:59:13 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/t-258.png"
+03-16-2017 @ 05:59:15 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/t-258.png"
+03-16-2017 @ 05:59:15 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/t-258.png"
+03-16-2017 @ 05:59:15 - > > Images set
+03-16-2017 @ 05:59:15 - > Finished importing post ID 2841.
+03-16-2017 @ 05:59:15 - > Row 6 - preparing for import.
+03-16-2017 @ 05:59:15 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:59:15 - > Inserting FABRIC / GEORGETTE - (Code - 4570 )
+03-16-2017 @ 05:59:16 - > Inserted - post ID is 2838.
+03-16-2017 @ 05:59:18 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/t-73.png"
+03-16-2017 @ 05:59:21 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/t-73.png"
+03-16-2017 @ 05:59:21 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/t-73.png"
+03-16-2017 @ 05:59:21 - > > Images set
+03-16-2017 @ 05:59:21 - > Finished importing post ID 2838.
+03-16-2017 @ 05:59:21 - > Row 7 - preparing for import.
+03-16-2017 @ 05:59:21 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:59:21 - > Inserting FABRIC / GEORGETTE - (Code -  4640 )
+03-16-2017 @ 05:59:21 - > Inserted - post ID is 2836.
+03-16-2017 @ 05:59:24 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/t-14.png"
+03-16-2017 @ 05:59:26 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/t-14.png"
+03-16-2017 @ 05:59:26 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/t-14.png"
+03-16-2017 @ 05:59:26 - > > Images set
+03-16-2017 @ 05:59:26 - > Finished importing post ID 2836.
+03-16-2017 @ 05:59:26 - > Row 8 - preparing for import.
+03-16-2017 @ 05:59:26 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:59:26 - > Inserting FABRIC / GEORGETTE - (Code - 4618 )
+03-16-2017 @ 05:59:27 - > Inserted - post ID is 2831.
+03-16-2017 @ 05:59:29 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/tt-15-1.png"
+03-16-2017 @ 05:59:32 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/tt-15-1.png"
+03-16-2017 @ 05:59:32 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/tt-15-1.png"
+03-16-2017 @ 05:59:32 - > > Images set
+03-16-2017 @ 05:59:32 - > Finished importing post ID 2831.
+03-16-2017 @ 05:59:32 - > Row 9 - preparing for import.
+03-16-2017 @ 05:59:32 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:59:32 - > Inserting FABRIC / GEORGETTE - (Code - 4643 )
+03-16-2017 @ 05:59:32 - > Inserted - post ID is 2829.
+03-16-2017 @ 05:59:35 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/t-19.png"
+03-16-2017 @ 05:59:37 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/t-19.png"
+03-16-2017 @ 05:59:37 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/t-19.png"
+03-16-2017 @ 05:59:37 - > > Images set
+03-16-2017 @ 05:59:37 - > Finished importing post ID 2829.
+03-16-2017 @ 05:59:37 - > Row 10 - preparing for import.
+03-16-2017 @ 05:59:37 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:59:37 - > Inserting FABRIC / GEORGETTE - (Code - 4627 )
+03-16-2017 @ 05:59:38 - > Inserted - post ID is 2827.
+03-16-2017 @ 05:59:40 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/t-49.png"
+03-16-2017 @ 05:59:43 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/t-49.png"
+03-16-2017 @ 05:59:43 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/t-49.png"
+03-16-2017 @ 05:59:43 - > > Images set
+03-16-2017 @ 05:59:43 - > Finished importing post ID 2827.
+03-16-2017 @ 05:59:43 - Finished processing products.
+03-16-2017 @ 05:59:46 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 05:59:46 - Parsing products CSV.
+03-16-2017 @ 05:59:46 - Finished parsing products CSV.
+03-16-2017 @ 05:59:46 - ---
+03-16-2017 @ 05:59:46 - Processing products.
+03-16-2017 @ 05:59:46 - > Row 1 - preparing for import.
+03-16-2017 @ 05:59:46 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:59:46 - > Inserting FABRIC / GEORGETTE - (Code - 4636 )
+03-16-2017 @ 05:59:47 - > Inserted - post ID is 2825.
+03-16-2017 @ 05:59:49 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/tt-75.png"
+03-16-2017 @ 05:59:51 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/tt-75.png"
+03-16-2017 @ 05:59:51 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/tt-75.png"
+03-16-2017 @ 05:59:51 - > > Images set
+03-16-2017 @ 05:59:51 - > Finished importing post ID 2825.
+03-16-2017 @ 05:59:51 - > Row 2 - preparing for import.
+03-16-2017 @ 05:59:51 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:59:51 - > Inserting Bed Sheet , Code ( 001720)
+03-16-2017 @ 05:59:52 - > Inserted - post ID is 2822.
+03-16-2017 @ 05:59:53 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/c-16.png"
+03-16-2017 @ 05:59:57 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/c-16.png"
+03-16-2017 @ 05:59:57 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/c-16.png"
+03-16-2017 @ 05:59:57 - > > Images set
+03-16-2017 @ 05:59:57 - > Finished importing post ID 2822.
+03-16-2017 @ 05:59:57 - > Row 3 - preparing for import.
+03-16-2017 @ 05:59:57 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 05:59:57 - > Inserting Bed Sheet , Code ( 167)
+03-16-2017 @ 05:59:58 - > Inserted - post ID is 2816.
+03-16-2017 @ 05:59:59 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/c-2.png"
+03-16-2017 @ 06:00:03 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/c-2.png"
+03-16-2017 @ 06:00:03 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/c-2.png"
+03-16-2017 @ 06:00:03 - > > Images set
+03-16-2017 @ 06:00:03 - > Finished importing post ID 2816.
+03-16-2017 @ 06:00:03 - > Row 4 - preparing for import.
+03-16-2017 @ 06:00:03 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:00:03 - > Inserting Bed Sheet , Code ( 963 )
+03-16-2017 @ 06:00:04 - > Inserted - post ID is 2814.
+03-16-2017 @ 06:00:06 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/cc-12.png"
+03-16-2017 @ 06:00:09 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/cc-12.png"
+03-16-2017 @ 06:00:09 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/cc-12.png"
+03-16-2017 @ 06:00:10 - > > Images set
+03-16-2017 @ 06:00:10 - > Finished importing post ID 2814.
+03-16-2017 @ 06:00:10 - > Row 5 - preparing for import.
+03-16-2017 @ 06:00:10 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:00:10 - > Inserting Bed Sheet -( Code , 258 )
+03-16-2017 @ 06:00:10 - > Inserted - post ID is 2812.
+03-16-2017 @ 06:00:12 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/c-3.png"
+03-16-2017 @ 06:00:16 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/c-3.png"
+03-16-2017 @ 06:00:16 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/c-3.png"
+03-16-2017 @ 06:00:16 - > > Images set
+03-16-2017 @ 06:00:16 - > Finished importing post ID 2812.
+03-16-2017 @ 06:00:16 - > Row 6 - preparing for import.
+03-16-2017 @ 06:00:16 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:00:16 - > Inserting Bed Sheet -( Code ,0273 )
+03-16-2017 @ 06:00:16 - > Inserted - post ID is 2810.
+03-16-2017 @ 06:00:18 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/ccc-45.png"
+03-16-2017 @ 06:00:22 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/ccc-45.png"
+03-16-2017 @ 06:00:22 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/ccc-45.png"
+03-16-2017 @ 06:00:23 - > > Images set
+03-16-2017 @ 06:00:23 - > Finished importing post ID 2810.
+03-16-2017 @ 06:00:23 - > Row 7 - preparing for import.
+03-16-2017 @ 06:00:23 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:00:23 - > Inserting Bed Sheet -( Code ,262 )
+03-16-2017 @ 06:00:23 - > Inserted - post ID is 2807.
+03-16-2017 @ 06:00:25 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/c-1.png"
+03-16-2017 @ 06:00:29 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/c-1.png"
+03-16-2017 @ 06:00:29 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/c-1.png"
+03-16-2017 @ 06:00:29 - > > Images set
+03-16-2017 @ 06:00:29 - > Finished importing post ID 2807.
+03-16-2017 @ 06:00:29 - > Row 8 - preparing for import.
+03-16-2017 @ 06:00:29 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:00:29 - > Inserting Bed Sheet -( Code 158 )
+03-16-2017 @ 06:00:30 - > Inserted - post ID is 2802.
+03-16-2017 @ 06:00:32 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/cc-3.png"
+03-16-2017 @ 06:00:37 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/cc-3.png"
+03-16-2017 @ 06:00:37 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/cc-3.png"
+03-16-2017 @ 06:00:37 - > > Images set
+03-16-2017 @ 06:00:37 - > Finished importing post ID 2802.
+03-16-2017 @ 06:00:37 - > Row 9 - preparing for import.
+03-16-2017 @ 06:00:37 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:00:37 - > Inserting Bed Sheet , Code ( 263)
+03-16-2017 @ 06:00:37 - > Inserted - post ID is 2799.
+03-16-2017 @ 06:00:40 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/cc-4.png"
+03-16-2017 @ 06:00:44 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/cc-4.png"
+03-16-2017 @ 06:00:44 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/cc-4.png"
+03-16-2017 @ 06:00:44 - > > Images set
+03-16-2017 @ 06:00:44 - > Finished importing post ID 2799.
+03-16-2017 @ 06:00:44 - > Row 10 - preparing for import.
+03-16-2017 @ 06:00:44 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:00:44 - > Inserting Bed Sheet  Code ( 206)
+03-16-2017 @ 06:00:44 - > Inserted - post ID is 2797.
+03-16-2017 @ 06:00:47 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/cc-2.png"
+03-16-2017 @ 06:00:51 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/cc-2.png"
+03-16-2017 @ 06:00:51 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/cc-2.png"
+03-16-2017 @ 06:00:51 - > > Images set
+03-16-2017 @ 06:00:51 - > Finished importing post ID 2797.
+03-16-2017 @ 06:00:51 - Finished processing products.
+03-16-2017 @ 06:00:54 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:00:54 - Parsing products CSV.
+03-16-2017 @ 06:00:54 - Finished parsing products CSV.
+03-16-2017 @ 06:00:54 - ---
+03-16-2017 @ 06:00:54 - Processing products.
+03-16-2017 @ 06:00:54 - > Row 1 - preparing for import.
+03-16-2017 @ 06:00:54 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:00:54 - > Inserting Bed Sheet - Code : 0269
+03-16-2017 @ 06:00:55 - > Inserted - post ID is 2795.
+03-16-2017 @ 06:00:57 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/c-4.png"
+03-16-2017 @ 06:01:01 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/c-4.png"
+03-16-2017 @ 06:01:01 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/c-4.png"
+03-16-2017 @ 06:01:01 - > > Images set
+03-16-2017 @ 06:01:01 - > Finished importing post ID 2795.
+03-16-2017 @ 06:01:01 - > Row 2 - preparing for import.
+03-16-2017 @ 06:01:01 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:01:01 - > Inserting Bed Sheet , Code ( 0274)
+03-16-2017 @ 06:01:02 - > Inserted - post ID is 2792.
+03-16-2017 @ 06:01:04 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/c-c-5.png"
+03-16-2017 @ 06:01:09 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/c-c-5.png"
+03-16-2017 @ 06:01:09 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/c-c-5.png"
+03-16-2017 @ 06:01:09 - > > Images set
+03-16-2017 @ 06:01:09 - > Finished importing post ID 2792.
+03-16-2017 @ 06:01:09 - > Row 3 - preparing for import.
+03-16-2017 @ 06:01:09 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:01:09 - > Inserting Bed Sheet , Code ( 266)
+03-16-2017 @ 06:01:09 - > Inserted - post ID is 2789.
+03-16-2017 @ 06:01:11 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/c-7.png"
+03-16-2017 @ 06:01:15 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/c-7.png"
+03-16-2017 @ 06:01:15 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/c-7.png"
+03-16-2017 @ 06:01:15 - > > Images set
+03-16-2017 @ 06:01:15 - > Finished importing post ID 2789.
+03-16-2017 @ 06:01:15 - > Row 4 - preparing for import.
+03-16-2017 @ 06:01:15 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:01:15 - > Inserting Bed Sheet , Code ( 266)
+03-16-2017 @ 06:01:15 - > Inserted - post ID is 2787.
+03-16-2017 @ 06:01:17 - > Finished importing post ID 2787.
+03-16-2017 @ 06:01:17 - > Row 5 - preparing for import.
+03-16-2017 @ 06:01:17 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:01:17 - > Inserting Exclusive soft silk katan Saree (Code-793)
+03-16-2017 @ 06:01:18 - > Inserted - post ID is 2779.
+03-16-2017 @ 06:01:19 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-793.png"
+03-16-2017 @ 06:01:22 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-793.png"
+03-16-2017 @ 06:01:22 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-793.png"
+03-16-2017 @ 06:01:22 - > > Images set
+03-16-2017 @ 06:01:22 - > Finished importing post ID 2779.
+03-16-2017 @ 06:01:22 - > Row 6 - preparing for import.
+03-16-2017 @ 06:01:22 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:01:22 - > Inserting Exclusive soft silk katan Saree (Code-655)
+03-16-2017 @ 06:01:23 - > Inserted - post ID is 2777.
+03-16-2017 @ 06:01:25 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-655.png"
+03-16-2017 @ 06:01:27 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-655.png"
+03-16-2017 @ 06:01:27 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-655.png"
+03-16-2017 @ 06:01:27 - > > Images set
+03-16-2017 @ 06:01:27 - > Finished importing post ID 2777.
+03-16-2017 @ 06:01:27 - > Row 7 - preparing for import.
+03-16-2017 @ 06:01:27 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:01:27 - > Inserting Exclusive soft silk katan Saree (Code-787)
+03-16-2017 @ 06:01:27 - > Inserted - post ID is 2775.
+03-16-2017 @ 06:01:29 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-787.png"
+03-16-2017 @ 06:01:32 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-787.png"
+03-16-2017 @ 06:01:32 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-787.png"
+03-16-2017 @ 06:01:33 - > > Images set
+03-16-2017 @ 06:01:33 - > Finished importing post ID 2775.
+03-16-2017 @ 06:01:33 - > Row 8 - preparing for import.
+03-16-2017 @ 06:01:33 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:01:33 - > Inserting Exclusive soft silk katan Saree (Code-654)
+03-16-2017 @ 06:01:33 - > Inserted - post ID is 2773.
+03-16-2017 @ 06:01:35 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-654.png"
+03-16-2017 @ 06:01:38 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-654.png"
+03-16-2017 @ 06:01:38 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-654.png"
+03-16-2017 @ 06:01:38 - > > Images set
+03-16-2017 @ 06:01:38 - > Finished importing post ID 2773.
+03-16-2017 @ 06:01:38 - > Row 9 - preparing for import.
+03-16-2017 @ 06:01:38 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:01:38 - > Inserting Exclusive soft silk katan Saree (Code-784)
+03-16-2017 @ 06:01:39 - > Inserted - post ID is 2770.
+03-16-2017 @ 06:01:40 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/784.png"
+03-16-2017 @ 06:01:43 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/784.png"
+03-16-2017 @ 06:01:43 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/784.png"
+03-16-2017 @ 06:01:43 - > > Images set
+03-16-2017 @ 06:01:43 - > Finished importing post ID 2770.
+03-16-2017 @ 06:01:43 - > Row 10 - preparing for import.
+03-16-2017 @ 06:01:43 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:01:43 - > Inserting Exclusive soft silk katan Saree (Code-792)
+03-16-2017 @ 06:01:43 - > Inserted - post ID is 2768.
+03-16-2017 @ 06:01:45 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-792.png"
+03-16-2017 @ 06:01:48 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-792.png"
+03-16-2017 @ 06:01:48 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-792.png"
+03-16-2017 @ 06:01:48 - > > Images set
+03-16-2017 @ 06:01:48 - > Finished importing post ID 2768.
+03-16-2017 @ 06:01:48 - Finished processing products.
+03-16-2017 @ 06:01:52 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:01:52 - Parsing products CSV.
+03-16-2017 @ 06:01:52 - Finished parsing products CSV.
+03-16-2017 @ 06:01:52 - ---
+03-16-2017 @ 06:01:52 - Processing products.
+03-16-2017 @ 06:01:52 - > Row 1 - preparing for import.
+03-16-2017 @ 06:01:52 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:01:52 - > Inserting Exclusive soft silk katan Saree (Code-669)
+03-16-2017 @ 06:01:53 - > Inserted - post ID is 2759.
+03-16-2017 @ 06:01:55 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-6.png"
+03-16-2017 @ 06:01:58 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-6.png"
+03-16-2017 @ 06:01:58 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-6.png"
+03-16-2017 @ 06:01:58 - > > Images set
+03-16-2017 @ 06:01:58 - > Finished importing post ID 2759.
+03-16-2017 @ 06:01:58 - > Row 2 - preparing for import.
+03-16-2017 @ 06:01:58 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:01:58 - > Inserting Exclusive soft silk katan Saree (Code-781)
+03-16-2017 @ 06:01:59 - > Inserted - post ID is 2756.
+03-16-2017 @ 06:02:01 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-3.png"
+03-16-2017 @ 06:02:03 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-3.png"
+03-16-2017 @ 06:02:03 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-3.png"
+03-16-2017 @ 06:02:03 - > > Images set
+03-16-2017 @ 06:02:03 - > Finished importing post ID 2756.
+03-16-2017 @ 06:02:03 - > Row 3 - preparing for import.
+03-16-2017 @ 06:02:03 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:02:03 - > Inserting Exclusive soft silk katan Saree (Code-807)
+03-16-2017 @ 06:02:04 - > Inserted - post ID is 2753.
+03-16-2017 @ 06:02:06 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/ss-5..png"
+03-16-2017 @ 06:02:09 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/ss-5..png"
+03-16-2017 @ 06:02:09 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/ss-5..png"
+03-16-2017 @ 06:02:09 - > > Images set
+03-16-2017 @ 06:02:09 - > Finished importing post ID 2753.
+03-16-2017 @ 06:02:09 - > Row 4 - preparing for import.
+03-16-2017 @ 06:02:09 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:02:09 - > Inserting Exclusive soft silk katan Saree (Code,653)
+03-16-2017 @ 06:02:09 - > Inserted - post ID is 2750.
+03-16-2017 @ 06:02:11 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-4.png"
+03-16-2017 @ 06:02:14 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-4.png"
+03-16-2017 @ 06:02:14 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-4.png"
+03-16-2017 @ 06:02:14 - > > Images set
+03-16-2017 @ 06:02:14 - > Finished importing post ID 2750.
+03-16-2017 @ 06:02:14 - > Row 5 - preparing for import.
+03-16-2017 @ 06:02:14 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:02:14 - > Inserting Exclusive soft silk katan Saree (Code-662)
+03-16-2017 @ 06:02:14 - > Inserted - post ID is 2748.
+03-16-2017 @ 06:02:16 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-12.png"
+03-16-2017 @ 06:02:19 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-12.png"
+03-16-2017 @ 06:02:19 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-12.png"
+03-16-2017 @ 06:02:19 - > > Images set
+03-16-2017 @ 06:02:19 - > Finished importing post ID 2748.
+03-16-2017 @ 06:02:19 - > Row 6 - preparing for import.
+03-16-2017 @ 06:02:19 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:02:19 - > Inserting Exclusive soft silk katan Saree (Code-788)
+03-16-2017 @ 06:02:19 - > Inserted - post ID is 2745.
+03-16-2017 @ 06:02:21 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-11.png"
+03-16-2017 @ 06:02:23 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-11.png"
+03-16-2017 @ 06:02:23 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-11.png"
+03-16-2017 @ 06:02:23 - > > Images set
+03-16-2017 @ 06:02:24 - > Finished importing post ID 2745.
+03-16-2017 @ 06:02:24 - > Row 7 - preparing for import.
+03-16-2017 @ 06:02:24 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:02:24 - > Inserting Exclusive soft silk katan Saree (Code-789)
+03-16-2017 @ 06:02:24 - > Inserted - post ID is 2742.
+03-16-2017 @ 06:02:26 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-9.png"
+03-16-2017 @ 06:02:28 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-9.png"
+03-16-2017 @ 06:02:28 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-9.png"
+03-16-2017 @ 06:02:28 - > > Images set
+03-16-2017 @ 06:02:28 - > Finished importing post ID 2742.
+03-16-2017 @ 06:02:28 - > Row 8 - preparing for import.
+03-16-2017 @ 06:02:28 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:02:28 - > Inserting Exclusive soft silk katan Saree (Code-786)
+03-16-2017 @ 06:02:29 - > Inserted - post ID is 2740.
+03-16-2017 @ 06:02:31 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-8.png"
+03-16-2017 @ 06:02:34 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-8.png"
+03-16-2017 @ 06:02:34 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-8.png"
+03-16-2017 @ 06:02:34 - > > Images set
+03-16-2017 @ 06:02:34 - > Finished importing post ID 2740.
+03-16-2017 @ 06:02:34 - > Row 9 - preparing for import.
+03-16-2017 @ 06:02:34 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:02:34 - > Inserting Exclusive soft silk katan Saree (Code,805)
+03-16-2017 @ 06:02:34 - > Inserted - post ID is 2737.
+03-16-2017 @ 06:02:36 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-1.png"
+03-16-2017 @ 06:02:39 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-1.png"
+03-16-2017 @ 06:02:39 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-1.png"
+03-16-2017 @ 06:02:39 - > > Images set
+03-16-2017 @ 06:02:40 - > Finished importing post ID 2737.
+03-16-2017 @ 06:02:40 - > Row 10 - preparing for import.
+03-16-2017 @ 06:02:40 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:02:40 - > Inserting Exclusive soft silk katan  Saree (Code-796)
+03-16-2017 @ 06:02:40 - > Inserted - post ID is 2734.
+03-16-2017 @ 06:02:42 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-10.png"
+03-16-2017 @ 06:02:45 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-10.png"
+03-16-2017 @ 06:02:45 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-10.png"
+03-16-2017 @ 06:02:45 - > > Images set
+03-16-2017 @ 06:02:45 - > Finished importing post ID 2734.
+03-16-2017 @ 06:02:45 - Finished processing products.
+03-16-2017 @ 06:02:49 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:02:49 - Parsing products CSV.
+03-16-2017 @ 06:02:49 - Finished parsing products CSV.
+03-16-2017 @ 06:02:49 - ---
+03-16-2017 @ 06:02:49 - Processing products.
+03-16-2017 @ 06:02:49 - > Row 1 - preparing for import.
+03-16-2017 @ 06:02:49 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:02:49 - > Inserting Exclusive soft silk katan Saree (Code-782)
+03-16-2017 @ 06:02:49 - > Inserted - post ID is 2732.
+03-16-2017 @ 06:02:52 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s-7.png"
+03-16-2017 @ 06:02:54 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s-7.png"
+03-16-2017 @ 06:02:54 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s-7.png"
+03-16-2017 @ 06:02:55 - > > Images set
+03-16-2017 @ 06:02:55 - > Finished importing post ID 2732.
+03-16-2017 @ 06:02:55 - > Row 2 - preparing for import.
+03-16-2017 @ 06:02:55 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:02:55 - > Inserting Exclusive soft silk katan  Saree (Code-652)
+03-16-2017 @ 06:02:55 - > Inserted - post ID is 2729.
+03-16-2017 @ 06:02:58 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/s2.png"
+03-16-2017 @ 06:03:00 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/s2.png"
+03-16-2017 @ 06:03:00 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/s2.png"
+03-16-2017 @ 06:03:00 - > > Images set
+03-16-2017 @ 06:03:01 - > Finished importing post ID 2729.
+03-16-2017 @ 06:03:01 - > Row 3 - preparing for import.
+03-16-2017 @ 06:03:01 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:03:01 - > Inserting Replica Dress cotton (code:001)
+03-16-2017 @ 06:03:01 - > Inserted - post ID is 2724.
+03-16-2017 @ 06:03:03 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/6-3.png"
+03-16-2017 @ 06:03:05 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/6-3.png"
+03-16-2017 @ 06:03:05 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/6-3.png"
+03-16-2017 @ 06:03:05 - > > Images set
+03-16-2017 @ 06:03:05 - > Finished importing post ID 2724.
+03-16-2017 @ 06:03:05 - > Row 4 - preparing for import.
+03-16-2017 @ 06:03:05 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:03:05 - > Inserting Replica dress Cotton (Code:   012)
+03-16-2017 @ 06:03:06 - > Inserted - post ID is 2721.
+03-16-2017 @ 06:03:08 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/7-2.png"
+03-16-2017 @ 06:03:10 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/7-2.png"
+03-16-2017 @ 06:03:10 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/7-2.png"
+03-16-2017 @ 06:03:10 - > > Images set
+03-16-2017 @ 06:03:10 - > Finished importing post ID 2721.
+03-16-2017 @ 06:03:10 - > Row 5 - preparing for import.
+03-16-2017 @ 06:03:10 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:03:10 - > Inserting Replica dress Cotton (Code:  033)
+03-16-2017 @ 06:03:10 - > Inserted - post ID is 2717.
+03-16-2017 @ 06:03:12 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/3-2.png"
+03-16-2017 @ 06:03:15 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/3-2.png"
+03-16-2017 @ 06:03:15 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/3-2.png"
+03-16-2017 @ 06:03:15 - > > Images set
+03-16-2017 @ 06:03:15 - > Finished importing post ID 2717.
+03-16-2017 @ 06:03:15 - > Row 6 - preparing for import.
+03-16-2017 @ 06:03:15 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:03:15 - > Inserting Replica dress Cotton (Code: 017)
+03-16-2017 @ 06:03:15 - > Inserted - post ID is 2714.
+03-16-2017 @ 06:03:17 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/5-3.png"
+03-16-2017 @ 06:03:19 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/5-3.png"
+03-16-2017 @ 06:03:19 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/5-3.png"
+03-16-2017 @ 06:03:19 - > > Images set
+03-16-2017 @ 06:03:19 - > Finished importing post ID 2714.
+03-16-2017 @ 06:03:19 - > Row 7 - preparing for import.
+03-16-2017 @ 06:03:19 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:03:19 - > Inserting Replica dress Cotton (Code: 016)
+03-16-2017 @ 06:03:20 - > Inserted - post ID is 2710.
+03-16-2017 @ 06:03:22 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/2-3.png"
+03-16-2017 @ 06:03:25 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/2-3.png"
+03-16-2017 @ 06:03:25 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/2-3.png"
+03-16-2017 @ 06:03:25 - > > Images set
+03-16-2017 @ 06:03:25 - > Finished importing post ID 2710.
+03-16-2017 @ 06:03:25 - > Row 8 - preparing for import.
+03-16-2017 @ 06:03:25 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:03:25 - > Inserting Replica dress Cotton  (Code: 013)
+03-16-2017 @ 06:03:26 - > Inserted - post ID is 2706.
+03-16-2017 @ 06:03:28 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/4c.png"
+03-16-2017 @ 06:03:30 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/4c.png"
+03-16-2017 @ 06:03:30 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/4c.png"
+03-16-2017 @ 06:03:30 - > > Images set
+03-16-2017 @ 06:03:30 - > Finished importing post ID 2706.
+03-16-2017 @ 06:03:30 - > Row 9 - preparing for import.
+03-16-2017 @ 06:03:30 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:03:30 - > Inserting Raplica dress Cotton  (Code: 011)
+03-16-2017 @ 06:03:31 - > Inserted - post ID is 2702.
+03-16-2017 @ 06:03:33 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/1c.png"
+03-16-2017 @ 06:03:37 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/1c.png"
+03-16-2017 @ 06:03:37 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/1c.png"
+03-16-2017 @ 06:03:37 - > > Images set
+03-16-2017 @ 06:03:37 - > Finished importing post ID 2702.
+03-16-2017 @ 06:03:37 - > Row 10 - preparing for import.
+03-16-2017 @ 06:03:37 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:03:37 - > Inserting LAKME PERFECT RADIANCE CREAM
+03-16-2017 @ 06:03:37 - > Inserted - post ID is 2687.
+03-16-2017 @ 06:03:40 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/o-26.png"
+03-16-2017 @ 06:03:42 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/o-26.png"
+03-16-2017 @ 06:03:42 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/o-26.png"
+03-16-2017 @ 06:03:42 - > > Images set
+03-16-2017 @ 06:03:42 - > Finished importing post ID 2687.
+03-16-2017 @ 06:03:42 - Finished processing products.
+03-16-2017 @ 06:03:46 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:03:46 - Parsing products CSV.
+03-16-2017 @ 06:03:46 - Finished parsing products CSV.
+03-16-2017 @ 06:03:46 - ---
+03-16-2017 @ 06:03:46 - Processing products.
+03-16-2017 @ 06:03:46 - > Row 1 - preparing for import.
+03-16-2017 @ 06:03:46 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:03:46 - > Inserting MISS &amp; amp MRS LIQUIDE EYELINER
+03-16-2017 @ 06:03:47 - > Inserted - post ID is 2685.
+03-16-2017 @ 06:03:49 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/o-34.png"
+03-16-2017 @ 06:03:50 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/o-34.png"
+03-16-2017 @ 06:03:50 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/o-34.png"
+03-16-2017 @ 06:03:51 - > > Images set
+03-16-2017 @ 06:03:51 - > Finished importing post ID 2685.
+03-16-2017 @ 06:03:51 - > Row 2 - preparing for import.
+03-16-2017 @ 06:03:51 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:03:51 - > Inserting NIVEA MEN SHAVING GEL
+03-16-2017 @ 06:03:51 - > Inserted - post ID is 2683.
+03-16-2017 @ 06:03:54 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/o-22.png"
+03-16-2017 @ 06:03:55 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/o-22.png"
+03-16-2017 @ 06:03:55 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/o-22.png"
+03-16-2017 @ 06:03:56 - > > Images set
+03-16-2017 @ 06:03:56 - > Finished importing post ID 2683.
+03-16-2017 @ 06:03:56 - > Row 3 - preparing for import.
+03-16-2017 @ 06:03:56 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:03:56 - > Inserting NEUTROGENA FACIAL BAR (soap)
+03-16-2017 @ 06:03:56 - > Inserted - post ID is 2680.
+03-16-2017 @ 06:03:58 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/o-21.png"
+03-16-2017 @ 06:04:01 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/o-21.png"
+03-16-2017 @ 06:04:01 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/o-21.png"
+03-16-2017 @ 06:04:01 - > > Images set
+03-16-2017 @ 06:04:01 - > Finished importing post ID 2680.
+03-16-2017 @ 06:04:01 - > Row 4 - preparing for import.
+03-16-2017 @ 06:04:01 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:01 - > Inserting HAVOC BODY SPRAY
+03-16-2017 @ 06:04:01 - > Inserted - post ID is 2678.
+03-16-2017 @ 06:04:03 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/o-20.png"
+03-16-2017 @ 06:04:06 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/o-20.png"
+03-16-2017 @ 06:04:06 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/o-20.png"
+03-16-2017 @ 06:04:06 - > > Images set
+03-16-2017 @ 06:04:07 - > Finished importing post ID 2678.
+03-16-2017 @ 06:04:07 - > Row 5 - preparing for import.
+03-16-2017 @ 06:04:07 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:07 - > Inserting THE BODY SHOP VITAMIN E MOISTURISING CREAM
+03-16-2017 @ 06:04:07 - > Inserted - post ID is 2676.
+03-16-2017 @ 06:04:10 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/o-19.png"
+03-16-2017 @ 06:04:13 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/o-19.png"
+03-16-2017 @ 06:04:13 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/o-19.png"
+03-16-2017 @ 06:04:13 - > > Images set
+03-16-2017 @ 06:04:13 - > Finished importing post ID 2676.
+03-16-2017 @ 06:04:13 - > Row 6 - preparing for import.
+03-16-2017 @ 06:04:13 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:13 - > Inserting NEUTROJENA DEEP CLEAN FACE WASH
+03-16-2017 @ 06:04:14 - > Inserted - post ID is 2674.
+03-16-2017 @ 06:04:15 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/o-18.png"
+03-16-2017 @ 06:04:17 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/o-18.png"
+03-16-2017 @ 06:04:17 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/o-18.png"
+03-16-2017 @ 06:04:17 - > > Images set
+03-16-2017 @ 06:04:17 - > Finished importing post ID 2674.
+03-16-2017 @ 06:04:17 - > Row 7 - preparing for import.
+03-16-2017 @ 06:04:17 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:17 - > Inserting JERGENS ULTRA HEALING LOTION
+03-16-2017 @ 06:04:18 - > Inserted - post ID is 2672.
+03-16-2017 @ 06:04:19 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/o-17.png"
+03-16-2017 @ 06:04:21 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/o-17.png"
+03-16-2017 @ 06:04:21 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/o-17.png"
+03-16-2017 @ 06:04:21 - > > Images set
+03-16-2017 @ 06:04:21 - > Finished importing post ID 2672.
+03-16-2017 @ 06:04:21 - > Row 8 - preparing for import.
+03-16-2017 @ 06:04:21 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:21 - > Inserting PONDS WHITE BEAUTY CREAM
+03-16-2017 @ 06:04:21 - > Inserted - post ID is 2670.
+03-16-2017 @ 06:04:24 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/o-16.png"
+03-16-2017 @ 06:04:27 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/o-16.png"
+03-16-2017 @ 06:04:27 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/o-16.png"
+03-16-2017 @ 06:04:27 - > > Images set
+03-16-2017 @ 06:04:27 - > Finished importing post ID 2670.
+03-16-2017 @ 06:04:27 - > Row 9 - preparing for import.
+03-16-2017 @ 06:04:27 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:27 - > Inserting WHITE TONE FACE POWDER
+03-16-2017 @ 06:04:27 - > Inserted - post ID is 2668.
+03-16-2017 @ 06:04:29 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/o-15.png"
+03-16-2017 @ 06:04:34 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/o-15.png"
+03-16-2017 @ 06:04:34 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/o-15.png"
+03-16-2017 @ 06:04:34 - > > Images set
+03-16-2017 @ 06:04:34 - > Finished importing post ID 2668.
+03-16-2017 @ 06:04:34 - > Row 10 - preparing for import.
+03-16-2017 @ 06:04:34 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:34 - > Inserting ARIS BODY SPRAY Attractive Smell
+03-16-2017 @ 06:04:34 - > Inserted - post ID is 2662.
+03-16-2017 @ 06:04:36 - > Finished importing post ID 2662.
+03-16-2017 @ 06:04:36 - Finished processing products.
+03-16-2017 @ 06:04:40 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:04:40 - Parsing products CSV.
+03-16-2017 @ 06:04:40 - Finished parsing products CSV.
+03-16-2017 @ 06:04:40 - ---
+03-16-2017 @ 06:04:40 - Processing products.
+03-16-2017 @ 06:04:40 - > Row 1 - preparing for import.
+03-16-2017 @ 06:04:40 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:40 - > Inserting NEUTROJENA FACE WASH
+03-16-2017 @ 06:04:41 - > Inserted - post ID is 2652.
+03-16-2017 @ 06:04:43 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/o-14.png"
+03-16-2017 @ 06:04:45 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/o-14.png"
+03-16-2017 @ 06:04:45 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/o-14.png"
+03-16-2017 @ 06:04:45 - > > Images set
+03-16-2017 @ 06:04:45 - > Finished importing post ID 2652.
+03-16-2017 @ 06:04:45 - > Row 2 - preparing for import.
+03-16-2017 @ 06:04:45 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:45 - > &#8220;Bajaj Almond Hair OIL&#8221;Product already exists.
+03-16-2017 @ 06:04:45 - > Row 3 - preparing for import.
+03-16-2017 @ 06:04:45 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:45 - > &#8220;BEST Lotion 4 OILY SKIN&#8221;Product already exists.
+03-16-2017 @ 06:04:45 - > Row 4 - preparing for import.
+03-16-2017 @ 06:04:45 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:45 - > &#8220;LAKME 9 TO 5 INSTA LIGHT INSTANT GLOW CREME&#8221;Product already exists.
+03-16-2017 @ 06:04:45 - > Row 5 - preparing for import.
+03-16-2017 @ 06:04:45 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:45 - > &#8220;LAKME 9 TO 5 INSTA LIGHT INSTANT GLOW CREME&#8221;Product already exists.
+03-16-2017 @ 06:04:45 - > Row 6 - preparing for import.
+03-16-2017 @ 06:04:45 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:45 - > &#8220;TRESEMME KERATIN SMOOTH SHAMPOO&#8221;Product already exists.
+03-16-2017 @ 06:04:45 - > Row 7 - preparing for import.
+03-16-2017 @ 06:04:45 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:45 - > &#8220;DUE MARKS NIL CREAM&#8221;Product already exists.
+03-16-2017 @ 06:04:45 - > Row 8 - preparing for import.
+03-16-2017 @ 06:04:45 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:45 - > &#8220;JUST GOLD LIQUID EYELINER&#8221;Product already exists.
+03-16-2017 @ 06:04:45 - > Row 9 - preparing for import.
+03-16-2017 @ 06:04:45 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:45 - > &#8220;THE BODY SHOP SKIN CLEARING FACIAL WASH&#8221;Product already exists.
+03-16-2017 @ 06:04:45 - > Row 10 - preparing for import.
+03-16-2017 @ 06:04:45 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:45 - > &#8220;RED POME LOTION&#8221;Product already exists.
+03-16-2017 @ 06:04:45 - Finished processing products.
+03-16-2017 @ 06:04:47 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:04:47 - Parsing products CSV.
+03-16-2017 @ 06:04:47 - Finished parsing products CSV.
+03-16-2017 @ 06:04:47 - ---
+03-16-2017 @ 06:04:47 - Processing products.
+03-16-2017 @ 06:04:47 - > Row 1 - preparing for import.
+03-16-2017 @ 06:04:47 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:47 - > &#8220;SNIGDHA SKIN WHITENING DAY / NIGHT CREAM ( VLCC )&#8221;Product already exists.
+03-16-2017 @ 06:04:47 - > Row 2 - preparing for import.
+03-16-2017 @ 06:04:47 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:47 - > &#8220;LIP GLOSS – KYLIE COSMETICS&#8221;Product already exists.
+03-16-2017 @ 06:04:47 - > Row 3 - preparing for import.
+03-16-2017 @ 06:04:47 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:47 - > &#8220;ALOE VERA SOOTHING GEL 99%&#8221;Product already exists.
+03-16-2017 @ 06:04:47 - > Row 4 - preparing for import.
+03-16-2017 @ 06:04:47 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:47 - > Inserting Tooth cleaner
+03-16-2017 @ 06:04:48 - > Inserted - post ID is 2622.
+03-16-2017 @ 06:04:50 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/5-2.png"
+03-16-2017 @ 06:04:52 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/5-2.png"
+03-16-2017 @ 06:04:52 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/5-2.png"
+03-16-2017 @ 06:04:52 - > > Images set
+03-16-2017 @ 06:04:52 - > Finished importing post ID 2622.
+03-16-2017 @ 06:04:52 - > Row 5 - preparing for import.
+03-16-2017 @ 06:04:52 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:52 - > Inserting Mini Room Heater (code-115)
+03-16-2017 @ 06:04:53 - > Inserted - post ID is 2619.
+03-16-2017 @ 06:04:56 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/Untitled-1-1.png"
+03-16-2017 @ 06:04:58 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/Untitled-1-1.png"
+03-16-2017 @ 06:04:58 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/Untitled-1-1.png"
+03-16-2017 @ 06:04:58 - > > Images set
+03-16-2017 @ 06:04:58 - > Finished importing post ID 2619.
+03-16-2017 @ 06:04:58 - > Row 6 - preparing for import.
+03-16-2017 @ 06:04:58 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:04:58 - > Inserting Electric swing machine
+03-16-2017 @ 06:04:59 - > Inserted - post ID is 2616.
+03-16-2017 @ 06:05:01 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/4-2.png"
+03-16-2017 @ 06:05:03 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/4-2.png"
+03-16-2017 @ 06:05:03 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/4-2.png"
+03-16-2017 @ 06:05:04 - > > Images set
+03-16-2017 @ 06:05:04 - > Finished importing post ID 2616.
+03-16-2017 @ 06:05:04 - > Row 7 - preparing for import.
+03-16-2017 @ 06:05:04 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:04 - > Inserting Room Heater (code-116)
+03-16-2017 @ 06:05:04 - > Inserted - post ID is 2614.
+03-16-2017 @ 06:05:06 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/new-p.png"
+03-16-2017 @ 06:05:11 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/new-p.png"
+03-16-2017 @ 06:05:11 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/new-p.png"
+03-16-2017 @ 06:05:11 - > > Images set
+03-16-2017 @ 06:05:11 - > Finished importing post ID 2614.
+03-16-2017 @ 06:05:11 - > Row 8 - preparing for import.
+03-16-2017 @ 06:05:11 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:11 - > &#8220;Telephone Set Duel Sim with FM&#8221;Product already exists.
+03-16-2017 @ 06:05:11 - > Row 9 - preparing for import.
+03-16-2017 @ 06:05:11 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:11 - > &#8220;Telephone Set Single Sim with FM&#8221;Product already exists.
+03-16-2017 @ 06:05:11 - > Row 10 - preparing for import.
+03-16-2017 @ 06:05:11 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:11 - > Inserting Telephone Set Single Sim with FM
+03-16-2017 @ 06:05:11 - > Inserted - post ID is 2606.
+03-16-2017 @ 06:05:13 - > Finished importing post ID 2606.
+03-16-2017 @ 06:05:13 - Finished processing products.
+03-16-2017 @ 06:05:17 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:05:17 - Parsing products CSV.
+03-16-2017 @ 06:05:17 - Finished parsing products CSV.
+03-16-2017 @ 06:05:17 - ---
+03-16-2017 @ 06:05:17 - Processing products.
+03-16-2017 @ 06:05:17 - > Row 1 - preparing for import.
+03-16-2017 @ 06:05:17 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:17 - > Inserting Electric swing machine
+03-16-2017 @ 06:05:17 - > Inserted - post ID is 2604.
+03-16-2017 @ 06:05:19 - > Finished importing post ID 2604.
+03-16-2017 @ 06:05:19 - > Row 2 - preparing for import.
+03-16-2017 @ 06:05:19 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:19 - > Inserting Blue Magic Mug
+03-16-2017 @ 06:05:20 - > Inserted - post ID is 2600.
+03-16-2017 @ 06:05:22 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/blue-magic-muig.png"
+03-16-2017 @ 06:05:25 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/blue-magic-muig.png"
+03-16-2017 @ 06:05:25 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/blue-magic-muig.png"
+03-16-2017 @ 06:05:25 - > > Images set
+03-16-2017 @ 06:05:25 - > Finished importing post ID 2600.
+03-16-2017 @ 06:05:25 - > Row 3 - preparing for import.
+03-16-2017 @ 06:05:25 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:25 - > Inserting magic mug
+03-16-2017 @ 06:05:25 - > Inserted - post ID is 2595.
+03-16-2017 @ 06:05:28 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/magic-mug-250x250.jpg"
+03-16-2017 @ 06:05:29 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/magic-mug-250x250.jpg"
+03-16-2017 @ 06:05:29 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/magic-mug-250x250.jpg"
+03-16-2017 @ 06:05:29 - > > Images set
+03-16-2017 @ 06:05:29 - > Finished importing post ID 2595.
+03-16-2017 @ 06:05:29 - > Row 4 - preparing for import.
+03-16-2017 @ 06:05:29 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:29 - > Inserting Double Heart Pendant Necklace
+03-16-2017 @ 06:05:29 - > Inserted - post ID is 2587.
+03-16-2017 @ 06:05:32 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/13-1.png"
+03-16-2017 @ 06:05:33 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/13-1.png"
+03-16-2017 @ 06:05:33 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/13-1.png"
+03-16-2017 @ 06:05:34 - > > Images set
+03-16-2017 @ 06:05:34 - > Finished importing post ID 2587.
+03-16-2017 @ 06:05:34 - > Row 5 - preparing for import.
+03-16-2017 @ 06:05:34 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:34 - > Inserting Unique purple necklace
+03-16-2017 @ 06:05:34 - > Inserted - post ID is 2584.
+03-16-2017 @ 06:05:36 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/12.png"
+03-16-2017 @ 06:05:37 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/12.png"
+03-16-2017 @ 06:05:37 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/12.png"
+03-16-2017 @ 06:05:38 - > > Images set
+03-16-2017 @ 06:05:38 - > Finished importing post ID 2584.
+03-16-2017 @ 06:05:38 - > Row 6 - preparing for import.
+03-16-2017 @ 06:05:38 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:38 - > Inserting Diamond Jewelry Set Necklace &amp; Earrings Sterling Silver
+03-16-2017 @ 06:05:38 - > Inserted - post ID is 2582.
+03-16-2017 @ 06:05:40 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/11-1.png"
+03-16-2017 @ 06:05:42 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/11-1.png"
+03-16-2017 @ 06:05:42 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/11-1.png"
+03-16-2017 @ 06:05:42 - > > Images set
+03-16-2017 @ 06:05:42 - > Finished importing post ID 2582.
+03-16-2017 @ 06:05:42 - > Row 7 - preparing for import.
+03-16-2017 @ 06:05:42 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:42 - > Inserting Silver Rose Gold Filled Fashion Necklaces
+03-16-2017 @ 06:05:43 - > Inserted - post ID is 2580.
+03-16-2017 @ 06:05:45 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/10-1.png"
+03-16-2017 @ 06:05:47 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/10-1.png"
+03-16-2017 @ 06:05:47 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/10-1.png"
+03-16-2017 @ 06:05:47 - > > Images set
+03-16-2017 @ 06:05:47 - > Finished importing post ID 2580.
+03-16-2017 @ 06:05:47 - > Row 8 - preparing for import.
+03-16-2017 @ 06:05:47 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:47 - > Inserting Red Stone Necklace and Earring set
+03-16-2017 @ 06:05:48 - > Inserted - post ID is 2576.
+03-16-2017 @ 06:05:50 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/8-1.png"
+03-16-2017 @ 06:05:52 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/8-1.png"
+03-16-2017 @ 06:05:52 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/8-1.png"
+03-16-2017 @ 06:05:52 - > > Images set
+03-16-2017 @ 06:05:52 - > Finished importing post ID 2576.
+03-16-2017 @ 06:05:52 - > Row 9 - preparing for import.
+03-16-2017 @ 06:05:52 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:52 - > Inserting Pendant Gold Plated Link Chain
+03-16-2017 @ 06:05:53 - > Inserted - post ID is 2574.
+03-16-2017 @ 06:05:55 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/7-1.png"
+03-16-2017 @ 06:05:57 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/7-1.png"
+03-16-2017 @ 06:05:57 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/7-1.png"
+03-16-2017 @ 06:05:57 - > > Images set
+03-16-2017 @ 06:05:57 - > Finished importing post ID 2574.
+03-16-2017 @ 06:05:57 - > Row 10 - preparing for import.
+03-16-2017 @ 06:05:57 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:05:57 - > Inserting Stylish Crystal Necklace set
+03-16-2017 @ 06:05:57 - > Inserted - post ID is 2570.
+03-16-2017 @ 06:05:59 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/6-1.png"
+03-16-2017 @ 06:06:01 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/6-1.png"
+03-16-2017 @ 06:06:01 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/6-1.png"
+03-16-2017 @ 06:06:01 - > > Images set
+03-16-2017 @ 06:06:01 - > Finished importing post ID 2570.
+03-16-2017 @ 06:06:01 - Finished processing products.
+03-16-2017 @ 06:06:04 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:06:04 - Parsing products CSV.
+03-16-2017 @ 06:06:04 - Finished parsing products CSV.
+03-16-2017 @ 06:06:04 - ---
+03-16-2017 @ 06:06:04 - Processing products.
+03-16-2017 @ 06:06:04 - > Row 1 - preparing for import.
+03-16-2017 @ 06:06:04 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:06:04 - > Inserting long beautiful earring necklace set rose gold bijouterie bijoux
+03-16-2017 @ 06:06:05 - > Inserted - post ID is 2568.
+03-16-2017 @ 06:06:07 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/5-1.png"
+03-16-2017 @ 06:06:09 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/5-1.png"
+03-16-2017 @ 06:06:09 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/5-1.png"
+03-16-2017 @ 06:06:09 - > > Images set
+03-16-2017 @ 06:06:09 - > Finished importing post ID 2568.
+03-16-2017 @ 06:06:09 - > Row 2 - preparing for import.
+03-16-2017 @ 06:06:09 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:06:09 - > Inserting Blue Stone Necklace and Earring set
+03-16-2017 @ 06:06:09 - > Inserted - post ID is 2566.
+03-16-2017 @ 06:06:11 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/4-1.png"
+03-16-2017 @ 06:06:13 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/4-1.png"
+03-16-2017 @ 06:06:13 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/4-1.png"
+03-16-2017 @ 06:06:13 - > > Images set
+03-16-2017 @ 06:06:13 - > Finished importing post ID 2566.
+03-16-2017 @ 06:06:13 - > Row 3 - preparing for import.
+03-16-2017 @ 06:06:13 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:06:13 - > Inserting Soulmate Necklaces
+03-16-2017 @ 06:06:13 - > Inserted - post ID is 2564.
+03-16-2017 @ 06:06:16 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/3-1.png"
+03-16-2017 @ 06:06:18 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/3-1.png"
+03-16-2017 @ 06:06:18 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/3-1.png"
+03-16-2017 @ 06:06:19 - > > Images set
+03-16-2017 @ 06:06:19 - > Finished importing post ID 2564.
+03-16-2017 @ 06:06:19 - > Row 4 - preparing for import.
+03-16-2017 @ 06:06:19 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:06:19 - > Inserting angel jewelry
+03-16-2017 @ 06:06:19 - > Inserted - post ID is 2562.
+03-16-2017 @ 06:06:21 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/2-1.png"
+03-16-2017 @ 06:06:24 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/2-1.png"
+03-16-2017 @ 06:06:24 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/2-1.png"
+03-16-2017 @ 06:06:24 - > > Images set
+03-16-2017 @ 06:06:24 - > Finished importing post ID 2562.
+03-16-2017 @ 06:06:24 - > Row 5 - preparing for import.
+03-16-2017 @ 06:06:24 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:06:24 - > Inserting Rose Gold Diamond Heart Necklace
+03-16-2017 @ 06:06:24 - > Inserted - post ID is 2560.
+03-16-2017 @ 06:06:26 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/1-1.png"
+03-16-2017 @ 06:06:29 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/1-1.png"
+03-16-2017 @ 06:06:29 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/1-1.png"
+03-16-2017 @ 06:06:29 - > > Images set
+03-16-2017 @ 06:06:29 - > Finished importing post ID 2560.
+03-16-2017 @ 06:06:29 - > Row 6 - preparing for import.
+03-16-2017 @ 06:06:29 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:06:29 - > Inserting Carrera Watch
+03-16-2017 @ 06:06:29 - > Inserted - post ID is 2556.
+03-16-2017 @ 06:06:32 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/3.jpg"
+03-16-2017 @ 06:06:33 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/3.jpg"
+03-16-2017 @ 06:06:33 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/3.jpg"
+03-16-2017 @ 06:06:33 - > > Images set
+03-16-2017 @ 06:06:33 - > Finished importing post ID 2556.
+03-16-2017 @ 06:06:33 - > Row 7 - preparing for import.
+03-16-2017 @ 06:06:33 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:06:33 - > Inserting Curren
+03-16-2017 @ 06:06:34 - > Inserted - post ID is 2554.
+03-16-2017 @ 06:06:35 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/9.jpg"
+03-16-2017 @ 06:06:40 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/9.jpg"
+03-16-2017 @ 06:06:40 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/9.jpg"
+03-16-2017 @ 06:06:40 - > > Images set
+03-16-2017 @ 06:06:40 - > Finished importing post ID 2554.
+03-16-2017 @ 06:06:40 - > Row 8 - preparing for import.
+03-16-2017 @ 06:06:40 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:06:40 - > Inserting New Carrera Watch
+03-16-2017 @ 06:06:40 - > Inserted - post ID is 2551.
+03-16-2017 @ 06:06:42 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/Untitled-1.png"
+03-16-2017 @ 06:06:46 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/Untitled-1.png"
+03-16-2017 @ 06:06:46 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/Untitled-1.png"
+03-16-2017 @ 06:06:46 - > > Images set
+03-16-2017 @ 06:06:47 - > Finished importing post ID 2551.
+03-16-2017 @ 06:06:47 - > Row 9 - preparing for import.
+03-16-2017 @ 06:06:47 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:06:47 - > Inserting Knight Man-Curren
+03-16-2017 @ 06:06:47 - > Inserted - post ID is 2549.
+03-16-2017 @ 06:06:49 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/22.jpg"
+03-16-2017 @ 06:06:51 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/22.jpg"
+03-16-2017 @ 06:06:51 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/22.jpg"
+03-16-2017 @ 06:06:51 - > > Images set
+03-16-2017 @ 06:06:51 - > Finished importing post ID 2549.
+03-16-2017 @ 06:06:51 - > Row 10 - preparing for import.
+03-16-2017 @ 06:06:51 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:06:51 - > Inserting Curren Ironman Watch
+03-16-2017 @ 06:06:52 - > Inserted - post ID is 2547.
+03-16-2017 @ 06:06:53 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/20.jpg"
+03-16-2017 @ 06:06:56 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/20.jpg"
+03-16-2017 @ 06:06:56 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/20.jpg"
+03-16-2017 @ 06:06:56 - > > Images set
+03-16-2017 @ 06:06:56 - > Finished importing post ID 2547.
+03-16-2017 @ 06:06:56 - Finished processing products.
+03-16-2017 @ 06:06:59 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:06:59 - Parsing products CSV.
+03-16-2017 @ 06:06:59 - Finished parsing products CSV.
+03-16-2017 @ 06:06:59 - ---
+03-16-2017 @ 06:06:59 - Processing products.
+03-16-2017 @ 06:06:59 - > Row 1 - preparing for import.
+03-16-2017 @ 06:06:59 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:06:59 - > Inserting Tissot
+03-16-2017 @ 06:07:00 - > Inserted - post ID is 2545.
+03-16-2017 @ 06:07:02 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/21.jpg"
+03-16-2017 @ 06:07:04 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/21.jpg"
+03-16-2017 @ 06:07:04 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/21.jpg"
+03-16-2017 @ 06:07:04 - > > Images set
+03-16-2017 @ 06:07:04 - > Finished importing post ID 2545.
+03-16-2017 @ 06:07:04 - > Row 2 - preparing for import.
+03-16-2017 @ 06:07:04 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:07:04 - > Inserting LED Watch
+03-16-2017 @ 06:07:04 - > Inserted - post ID is 2543.
+03-16-2017 @ 06:07:06 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/15.jpg"
+03-16-2017 @ 06:07:07 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/15.jpg"
+03-16-2017 @ 06:07:07 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/15.jpg"
+03-16-2017 @ 06:07:07 - > > Images set
+03-16-2017 @ 06:07:07 - > Finished importing post ID 2543.
+03-16-2017 @ 06:07:07 - > Row 3 - preparing for import.
+03-16-2017 @ 06:07:07 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:07:07 - > Inserting Zenlex 
+03-16-2017 @ 06:07:07 - > Inserted - post ID is 2541.
+03-16-2017 @ 06:07:10 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/12-1.jpg"
+03-16-2017 @ 06:07:12 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/12-1.jpg"
+03-16-2017 @ 06:07:12 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/12-1.jpg"
+03-16-2017 @ 06:07:12 - > > Images set
+03-16-2017 @ 06:07:12 - > Finished importing post ID 2541.
+03-16-2017 @ 06:07:12 - > Row 4 - preparing for import.
+03-16-2017 @ 06:07:12 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:07:12 - > Inserting Curren Military watch
+03-16-2017 @ 06:07:12 - > Inserted - post ID is 2539.
+03-16-2017 @ 06:07:14 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/19.jpg"
+03-16-2017 @ 06:07:16 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/19.jpg"
+03-16-2017 @ 06:07:16 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/19.jpg"
+03-16-2017 @ 06:07:16 - > > Images set
+03-16-2017 @ 06:07:16 - > Finished importing post ID 2539.
+03-16-2017 @ 06:07:16 - > Row 5 - preparing for import.
+03-16-2017 @ 06:07:16 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:07:16 - > Inserting Ohsen Watch
+03-16-2017 @ 06:07:17 - > Inserted - post ID is 2537.
+03-16-2017 @ 06:07:18 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/12.jpg"
+03-16-2017 @ 06:07:20 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/12.jpg"
+03-16-2017 @ 06:07:20 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/12.jpg"
+03-16-2017 @ 06:07:21 - > > Images set
+03-16-2017 @ 06:07:21 - > Finished importing post ID 2537.
+03-16-2017 @ 06:07:21 - > Row 6 - preparing for import.
+03-16-2017 @ 06:07:21 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:07:21 - > Inserting Curren Watch
+03-16-2017 @ 06:07:21 - > Inserted - post ID is 2535.
+03-16-2017 @ 06:07:23 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/25.jpg"
+03-16-2017 @ 06:07:25 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/25.jpg"
+03-16-2017 @ 06:07:25 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/25.jpg"
+03-16-2017 @ 06:07:25 - > > Images set
+03-16-2017 @ 06:07:25 - > Finished importing post ID 2535.
+03-16-2017 @ 06:07:25 - > Row 7 - preparing for import.
+03-16-2017 @ 06:07:25 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:07:25 - > Inserting Curren Watch
+03-16-2017 @ 06:07:25 - > Inserted - post ID is 2533.
+03-16-2017 @ 06:07:27 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/24.jpg"
+03-16-2017 @ 06:07:29 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/24.jpg"
+03-16-2017 @ 06:07:29 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/24.jpg"
+03-16-2017 @ 06:07:29 - > > Images set
+03-16-2017 @ 06:07:29 - > Finished importing post ID 2533.
+03-16-2017 @ 06:07:29 - > Row 8 - preparing for import.
+03-16-2017 @ 06:07:29 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:07:29 - > Inserting Ironman Watch  Digital
+03-16-2017 @ 06:07:29 - > Inserted - post ID is 2531.
+03-16-2017 @ 06:07:31 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/23.jpg"
+03-16-2017 @ 06:07:34 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/23.jpg"
+03-16-2017 @ 06:07:34 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/23.jpg"
+03-16-2017 @ 06:07:34 - > > Images set
+03-16-2017 @ 06:07:34 - > Finished importing post ID 2531.
+03-16-2017 @ 06:07:34 - > Row 9 - preparing for import.
+03-16-2017 @ 06:07:34 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:07:34 - > Inserting Batman Hoodie Jacket
+03-16-2017 @ 06:07:35 - > Inserted - post ID is 2524.
+03-16-2017 @ 06:07:37 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/15.png"
+03-16-2017 @ 06:07:40 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/15.png"
+03-16-2017 @ 06:07:40 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/15.png"
+03-16-2017 @ 06:07:40 - > > Images set
+03-16-2017 @ 06:07:40 - > Finished importing post ID 2524.
+03-16-2017 @ 06:07:40 - > Row 10 - preparing for import.
+03-16-2017 @ 06:07:40 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:07:40 - > Inserting Gray Contrast Hoodie
+03-16-2017 @ 06:07:41 - > Inserted - post ID is 2521.
+03-16-2017 @ 06:07:43 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/10.png"
+03-16-2017 @ 06:07:46 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/10.png"
+03-16-2017 @ 06:07:46 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/10.png"
+03-16-2017 @ 06:07:47 - > > Images set
+03-16-2017 @ 06:07:47 - > Finished importing post ID 2521.
+03-16-2017 @ 06:07:47 - Finished processing products.
+03-16-2017 @ 06:07:50 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:07:50 - Parsing products CSV.
+03-16-2017 @ 06:07:50 - Finished parsing products CSV.
+03-16-2017 @ 06:07:50 - ---
+03-16-2017 @ 06:07:50 - Processing products.
+03-16-2017 @ 06:07:50 - > Row 1 - preparing for import.
+03-16-2017 @ 06:07:50 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:07:50 - > Inserting Batman Hoodie Jacket ( Back Side )
+03-16-2017 @ 06:07:51 - > Inserted - post ID is 2518.
+03-16-2017 @ 06:07:53 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/14.png"
+03-16-2017 @ 06:07:58 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/14.png"
+03-16-2017 @ 06:07:58 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/14.png"
+03-16-2017 @ 06:07:58 - > > Images set
+03-16-2017 @ 06:07:58 - > Finished importing post ID 2518.
+03-16-2017 @ 06:07:58 - > Row 2 - preparing for import.
+03-16-2017 @ 06:07:58 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:07:58 - > Inserting Batman Hoodie
+03-16-2017 @ 06:07:59 - > Inserted - post ID is 2516.
+03-16-2017 @ 06:08:01 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/4.png"
+03-16-2017 @ 06:08:04 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/4.png"
+03-16-2017 @ 06:08:04 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/4.png"
+03-16-2017 @ 06:08:04 - > > Images set
+03-16-2017 @ 06:08:05 - > Finished importing post ID 2516.
+03-16-2017 @ 06:08:05 - > Row 3 - preparing for import.
+03-16-2017 @ 06:08:05 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:08:05 - > Inserting Full sleeve Polo-Shirt
+03-16-2017 @ 06:08:05 - > Inserted - post ID is 2514.
+03-16-2017 @ 06:08:08 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/13.png"
+03-16-2017 @ 06:08:11 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/13.png"
+03-16-2017 @ 06:08:11 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/13.png"
+03-16-2017 @ 06:08:11 - > > Images set
+03-16-2017 @ 06:08:11 - > Finished importing post ID 2514.
+03-16-2017 @ 06:08:11 - > Row 4 - preparing for import.
+03-16-2017 @ 06:08:11 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:08:11 - > Inserting Full sleeve Polo-Shirt
+03-16-2017 @ 06:08:11 - > Inserted - post ID is 2512.
+03-16-2017 @ 06:08:14 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/5.png"
+03-16-2017 @ 06:08:16 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/5.png"
+03-16-2017 @ 06:08:16 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/5.png"
+03-16-2017 @ 06:08:16 - > > Images set
+03-16-2017 @ 06:08:17 - > Finished importing post ID 2512.
+03-16-2017 @ 06:08:17 - > Row 5 - preparing for import.
+03-16-2017 @ 06:08:17 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:08:17 - > Inserting Full sleeve Polo-Shirt
+03-16-2017 @ 06:08:17 - > Inserted - post ID is 2510.
+03-16-2017 @ 06:08:20 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/8.png"
+03-16-2017 @ 06:08:22 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/8.png"
+03-16-2017 @ 06:08:22 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/8.png"
+03-16-2017 @ 06:08:23 - > > Images set
+03-16-2017 @ 06:08:23 - > Finished importing post ID 2510.
+03-16-2017 @ 06:08:23 - > Row 6 - preparing for import.
+03-16-2017 @ 06:08:23 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:08:23 - > Inserting Full sleeve Polo-Shirt
+03-16-2017 @ 06:08:23 - > Inserted - post ID is 2504.
+03-16-2017 @ 06:08:25 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/3.png"
+03-16-2017 @ 06:08:28 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/3.png"
+03-16-2017 @ 06:08:28 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/3.png"
+03-16-2017 @ 06:08:28 - > > Images set
+03-16-2017 @ 06:08:28 - > Finished importing post ID 2504.
+03-16-2017 @ 06:08:28 - > Row 7 - preparing for import.
+03-16-2017 @ 06:08:28 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:08:28 - > Inserting Full Sleeve T-Shirt
+03-16-2017 @ 06:08:29 - > Inserted - post ID is 2502.
+03-16-2017 @ 06:08:32 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/11.png"
+03-16-2017 @ 06:08:35 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/11.png"
+03-16-2017 @ 06:08:35 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/11.png"
+03-16-2017 @ 06:08:35 - > > Images set
+03-16-2017 @ 06:08:36 - > Finished importing post ID 2502.
+03-16-2017 @ 06:08:36 - > Row 8 - preparing for import.
+03-16-2017 @ 06:08:36 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:08:36 - > Inserting Full Sleeve T-Shirt
+03-16-2017 @ 06:08:36 - > Inserted - post ID is 2499.
+03-16-2017 @ 06:08:39 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/6.png"
+03-16-2017 @ 06:08:42 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/6.png"
+03-16-2017 @ 06:08:42 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/6.png"
+03-16-2017 @ 06:08:43 - > > Images set
+03-16-2017 @ 06:08:43 - > Finished importing post ID 2499.
+03-16-2017 @ 06:08:43 - > Row 9 - preparing for import.
+03-16-2017 @ 06:08:43 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:08:43 - > Inserting Full Sleeve T-Shirt
+03-16-2017 @ 06:08:43 - > Inserted - post ID is 2497.
+03-16-2017 @ 06:08:45 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/1.png"
+03-16-2017 @ 06:08:48 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/1.png"
+03-16-2017 @ 06:08:48 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/1.png"
+03-16-2017 @ 06:08:48 - > > Images set
+03-16-2017 @ 06:08:49 - > Finished importing post ID 2497.
+03-16-2017 @ 06:08:49 - > Row 10 - preparing for import.
+03-16-2017 @ 06:08:49 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:08:49 - > Inserting Full Sleeve T-Shirt
+03-16-2017 @ 06:08:49 - > Inserted - post ID is 2495.
+03-16-2017 @ 06:08:51 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/11/2.png"
+03-16-2017 @ 06:08:54 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/11/2.png"
+03-16-2017 @ 06:08:54 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/11/2.png"
+03-16-2017 @ 06:08:54 - > > Images set
+03-16-2017 @ 06:08:54 - > Finished importing post ID 2495.
+03-16-2017 @ 06:08:54 - Finished processing products.
+03-16-2017 @ 06:08:58 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:08:58 - Parsing products CSV.
+03-16-2017 @ 06:08:58 - Finished parsing products CSV.
+03-16-2017 @ 06:08:58 - ---
+03-16-2017 @ 06:08:58 - Processing products.
+03-16-2017 @ 06:08:58 - > Row 1 - preparing for import.
+03-16-2017 @ 06:08:58 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:08:58 - > Inserting Jewelry-Watches
+03-16-2017 @ 06:08:58 - > Inserted - post ID is 2482.
+03-16-2017 @ 06:09:00 - > Finished importing post ID 2482.
+03-16-2017 @ 06:09:00 - > Row 2 - preparing for import.
+03-16-2017 @ 06:09:00 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:09:00 - > Inserting Multi  Salad chef Kt 797
+03-16-2017 @ 06:09:01 - > Inserted - post ID is 2476.
+03-16-2017 @ 06:09:03 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Multi-Salad-chef-Kt797.jpg"
+03-16-2017 @ 06:09:05 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Multi-Salad-chef-Kt797.jpg"
+03-16-2017 @ 06:09:05 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Multi-Salad-chef-Kt797.jpg"
+03-16-2017 @ 06:09:05 - > > Images set
+03-16-2017 @ 06:09:05 - > Finished importing post ID 2476.
+03-16-2017 @ 06:09:05 - > Row 3 - preparing for import.
+03-16-2017 @ 06:09:05 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:09:05 - > Inserting AC FAN
+03-16-2017 @ 06:09:05 - > Inserted - post ID is 2472.
+03-16-2017 @ 06:09:08 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/AC-Fan.jpg"
+03-16-2017 @ 06:09:09 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/AC-Fan.jpg"
+03-16-2017 @ 06:09:09 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/AC-Fan.jpg"
+03-16-2017 @ 06:09:09 - > > Images set
+03-16-2017 @ 06:09:10 - > Finished importing post ID 2472.
+03-16-2017 @ 06:09:10 - > Row 4 - preparing for import.
+03-16-2017 @ 06:09:10 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:09:10 - > Inserting Miyako Electric Doi/Yogurt maker kt-50
+03-16-2017 @ 06:09:10 - > Inserted - post ID is 2470.
+03-16-2017 @ 06:09:13 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Miyako-Electric-Doi-Yogurt-maker-kt-50-.jpg"
+03-16-2017 @ 06:09:14 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Miyako-Electric-Doi-Yogurt-maker-kt-50-.jpg"
+03-16-2017 @ 06:09:14 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Miyako-Electric-Doi-Yogurt-maker-kt-50-.jpg"
+03-16-2017 @ 06:09:14 - > > Images set
+03-16-2017 @ 06:09:14 - > Finished importing post ID 2470.
+03-16-2017 @ 06:09:14 - > Row 5 - preparing for import.
+03-16-2017 @ 06:09:14 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:09:14 - > Inserting Electric eye trimmer
+03-16-2017 @ 06:09:15 - > Inserted - post ID is 2468.
+03-16-2017 @ 06:09:17 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Electric-eye-trimmer.jpg"
+03-16-2017 @ 06:09:19 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Electric-eye-trimmer.jpg"
+03-16-2017 @ 06:09:19 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Electric-eye-trimmer.jpg"
+03-16-2017 @ 06:09:19 - > > Images set
+03-16-2017 @ 06:09:19 - > Finished importing post ID 2468.
+03-16-2017 @ 06:09:19 - > Row 6 - preparing for import.
+03-16-2017 @ 06:09:19 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:09:19 - > Inserting Pencil shape digital pen holder multi color
+03-16-2017 @ 06:09:20 - > Inserted - post ID is 2466.
+03-16-2017 @ 06:09:22 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Pencil-shape-digital-pen-holder-multi-color.jpg"
+03-16-2017 @ 06:09:23 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Pencil-shape-digital-pen-holder-multi-color.jpg"
+03-16-2017 @ 06:09:23 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Pencil-shape-digital-pen-holder-multi-color.jpg"
+03-16-2017 @ 06:09:23 - > > Images set
+03-16-2017 @ 06:09:23 - > Finished importing post ID 2466.
+03-16-2017 @ 06:09:23 - > Row 7 - preparing for import.
+03-16-2017 @ 06:09:23 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:09:23 - > Inserting Luma Smile
+03-16-2017 @ 06:09:24 - > Inserted - post ID is 2464.
+03-16-2017 @ 06:09:26 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Luma-Smile.jpg"
+03-16-2017 @ 06:09:28 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Luma-Smile.jpg"
+03-16-2017 @ 06:09:28 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Luma-Smile.jpg"
+03-16-2017 @ 06:09:28 - > > Images set
+03-16-2017 @ 06:09:28 - > Finished importing post ID 2464.
+03-16-2017 @ 06:09:28 - > Row 8 - preparing for import.
+03-16-2017 @ 06:09:28 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:09:28 - > Inserting Multi-Functional brain Comfort Massager with usb power
+03-16-2017 @ 06:09:29 - > Inserted - post ID is 2461.
+03-16-2017 @ 06:09:31 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Multi-Functional-brain-Comfort-Massager-with-usb-power.jpg"
+03-16-2017 @ 06:09:33 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Multi-Functional-brain-Comfort-Massager-with-usb-power.jpg"
+03-16-2017 @ 06:09:33 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Multi-Functional-brain-Comfort-Massager-with-usb-power.jpg"
+03-16-2017 @ 06:09:33 - > > Images set
+03-16-2017 @ 06:09:33 - > Finished importing post ID 2461.
+03-16-2017 @ 06:09:33 - > Row 9 - preparing for import.
+03-16-2017 @ 06:09:33 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:09:33 - > Inserting Notebook cooling pad (6 fan +speed controller)
+03-16-2017 @ 06:09:34 - > Inserted - post ID is 2459.
+03-16-2017 @ 06:09:36 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Notebook-cooling-pad-6-fan-speed-controller.jpg"
+03-16-2017 @ 06:09:37 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Notebook-cooling-pad-6-fan-speed-controller.jpg"
+03-16-2017 @ 06:09:37 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Notebook-cooling-pad-6-fan-speed-controller.jpg"
+03-16-2017 @ 06:09:37 - > > Images set
+03-16-2017 @ 06:09:38 - > Finished importing post ID 2459.
+03-16-2017 @ 06:09:38 - > Row 10 - preparing for import.
+03-16-2017 @ 06:09:38 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:09:38 - > Inserting Vibration eye massager
+03-16-2017 @ 06:09:38 - > Inserted - post ID is 2456.
+03-16-2017 @ 06:09:40 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Vibration-eye-massager.jpg"
+03-16-2017 @ 06:09:41 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Vibration-eye-massager.jpg"
+03-16-2017 @ 06:09:41 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Vibration-eye-massager.jpg"
+03-16-2017 @ 06:09:41 - > > Images set
+03-16-2017 @ 06:09:42 - > Finished importing post ID 2456.
+03-16-2017 @ 06:09:42 - Finished processing products.
+03-16-2017 @ 06:09:45 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:09:45 - Parsing products CSV.
+03-16-2017 @ 06:09:45 - Finished parsing products CSV.
+03-16-2017 @ 06:09:45 - ---
+03-16-2017 @ 06:09:45 - Processing products.
+03-16-2017 @ 06:09:45 - > Row 1 - preparing for import.
+03-16-2017 @ 06:09:45 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:09:45 - > Inserting Multipurpose Laptop Table 2 with Coller
+03-16-2017 @ 06:09:46 - > Inserted - post ID is 2454.
+03-16-2017 @ 06:09:48 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Multipurpose-Laptop-Table-2-with-Coller.jpg"
+03-16-2017 @ 06:09:49 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Multipurpose-Laptop-Table-2-with-Coller.jpg"
+03-16-2017 @ 06:09:49 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Multipurpose-Laptop-Table-2-with-Coller.jpg"
+03-16-2017 @ 06:09:49 - > > Images set
+03-16-2017 @ 06:09:49 - > Finished importing post ID 2454.
+03-16-2017 @ 06:09:49 - > Row 2 - preparing for import.
+03-16-2017 @ 06:09:49 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:09:49 - > Inserting Mini  Sand witch  Maker
+03-16-2017 @ 06:09:50 - > Inserted - post ID is 2446.
+03-16-2017 @ 06:09:52 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Mini-Sand-witch-Maker.jpg"
+03-16-2017 @ 06:09:54 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Mini-Sand-witch-Maker.jpg"
+03-16-2017 @ 06:09:54 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Mini-Sand-witch-Maker.jpg"
+03-16-2017 @ 06:09:54 - > > Images set
+03-16-2017 @ 06:09:54 - > Finished importing post ID 2446.
+03-16-2017 @ 06:09:54 - > Row 3 - preparing for import.
+03-16-2017 @ 06:09:54 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:09:54 - > Inserting Brisket maker/Apex Stone press machine
+03-16-2017 @ 06:09:55 - > Inserted - post ID is 2441.
+03-16-2017 @ 06:09:57 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Brisket-maker-Apex-Stone-press-machine.jpg"
+03-16-2017 @ 06:10:00 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Brisket-maker-Apex-Stone-press-machine.jpg"
+03-16-2017 @ 06:10:00 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Brisket-maker-Apex-Stone-press-machine.jpg"
+03-16-2017 @ 06:10:00 - > > Images set
+03-16-2017 @ 06:10:00 - > Finished importing post ID 2441.
+03-16-2017 @ 06:10:00 - > Row 4 - preparing for import.
+03-16-2017 @ 06:10:00 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:10:00 - > Inserting Electric Heart Shape waffle Maker kt 809
+03-16-2017 @ 06:10:00 - > Inserted - post ID is 2439.
+03-16-2017 @ 06:10:02 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/neww.jpg"
+03-16-2017 @ 06:10:06 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/neww.jpg"
+03-16-2017 @ 06:10:06 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/neww.jpg"
+03-16-2017 @ 06:10:06 - > > Images set
+03-16-2017 @ 06:10:06 - > Finished importing post ID 2439.
+03-16-2017 @ 06:10:06 - > Row 5 - preparing for import.
+03-16-2017 @ 06:10:06 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:10:06 - > Inserting Garlic Ginger Grinder Kt41
+03-16-2017 @ 06:10:06 - > Inserted - post ID is 2437.
+03-16-2017 @ 06:10:08 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Garlic-Ginger-Grinder-Kt41.jpg"
+03-16-2017 @ 06:10:10 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Garlic-Ginger-Grinder-Kt41.jpg"
+03-16-2017 @ 06:10:10 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Garlic-Ginger-Grinder-Kt41.jpg"
+03-16-2017 @ 06:10:11 - > > Images set
+03-16-2017 @ 06:10:11 - > Finished importing post ID 2437.
+03-16-2017 @ 06:10:11 - > Row 6 - preparing for import.
+03-16-2017 @ 06:10:11 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:10:11 - > Inserting Kelyn Natural Face Pack - Saffron
+03-16-2017 @ 06:10:11 - > Inserted - post ID is 2429.
+03-16-2017 @ 06:10:13 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/11.jpg"
+03-16-2017 @ 06:10:14 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/11.jpg"
+03-16-2017 @ 06:10:14 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/11.jpg"
+03-16-2017 @ 06:10:15 - > > Images set
+03-16-2017 @ 06:10:15 - > Finished importing post ID 2429.
+03-16-2017 @ 06:10:15 - > Row 7 - preparing for import.
+03-16-2017 @ 06:10:15 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:10:15 - > Inserting Kelyn Natural Bathing Bar (Soap)
+03-16-2017 @ 06:10:15 - > Inserted - post ID is 2427.
+03-16-2017 @ 06:10:17 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/10.jpg"
+03-16-2017 @ 06:10:19 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/10.jpg"
+03-16-2017 @ 06:10:19 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/10.jpg"
+03-16-2017 @ 06:10:19 - > > Images set
+03-16-2017 @ 06:10:20 - > Finished importing post ID 2427.
+03-16-2017 @ 06:10:20 - > Row 8 - preparing for import.
+03-16-2017 @ 06:10:20 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:10:20 - > Inserting Kelyn Natural Goree Whitening Cream
+03-16-2017 @ 06:10:20 - > Inserted - post ID is 2425.
+03-16-2017 @ 06:10:23 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/9.jpg"
+03-16-2017 @ 06:10:25 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/9.jpg"
+03-16-2017 @ 06:10:25 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/9.jpg"
+03-16-2017 @ 06:10:25 - > > Images set
+03-16-2017 @ 06:10:25 - > Finished importing post ID 2425.
+03-16-2017 @ 06:10:25 - > Row 9 - preparing for import.
+03-16-2017 @ 06:10:25 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:10:25 - > Inserting Kelyn Natural Fairness Cream (Men)
+03-16-2017 @ 06:10:25 - > Inserted - post ID is 2422.
+03-16-2017 @ 06:10:28 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/8.jpg"
+03-16-2017 @ 06:10:30 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/8.jpg"
+03-16-2017 @ 06:10:30 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/8.jpg"
+03-16-2017 @ 06:10:30 - > > Images set
+03-16-2017 @ 06:10:30 - > Finished importing post ID 2422.
+03-16-2017 @ 06:10:30 - > Row 10 - preparing for import.
+03-16-2017 @ 06:10:30 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:10:30 - > Inserting Kelyn Natural Fairness Cream (Women)
+03-16-2017 @ 06:10:31 - > Inserted - post ID is 2418.
+03-16-2017 @ 06:10:33 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/7.jpg"
+03-16-2017 @ 06:10:35 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/7.jpg"
+03-16-2017 @ 06:10:35 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/7.jpg"
+03-16-2017 @ 06:10:35 - > > Images set
+03-16-2017 @ 06:10:35 - > Finished importing post ID 2418.
+03-16-2017 @ 06:10:35 - Finished processing products.
+03-16-2017 @ 06:10:39 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:10:39 - Parsing products CSV.
+03-16-2017 @ 06:10:39 - Finished parsing products CSV.
+03-16-2017 @ 06:10:39 - ---
+03-16-2017 @ 06:10:39 - Processing products.
+03-16-2017 @ 06:10:39 - > Row 1 - preparing for import.
+03-16-2017 @ 06:10:39 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:10:39 - > Inserting Kelyn Natural Hair Remover - Rose
+03-16-2017 @ 06:10:40 - > Inserted - post ID is 2416.
+03-16-2017 @ 06:10:42 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/6.jpg"
+03-16-2017 @ 06:10:45 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/6.jpg"
+03-16-2017 @ 06:10:45 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/6.jpg"
+03-16-2017 @ 06:10:45 - > > Images set
+03-16-2017 @ 06:10:45 - > Finished importing post ID 2416.
+03-16-2017 @ 06:10:45 - > Row 2 - preparing for import.
+03-16-2017 @ 06:10:45 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:10:45 - > Inserting Kelyn Natural  Hair Remover - Aloevera
+03-16-2017 @ 06:10:46 - > Inserted - post ID is 2414.
+03-16-2017 @ 06:10:48 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/5.jpg"
+03-16-2017 @ 06:10:49 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/5.jpg"
+03-16-2017 @ 06:10:49 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/5.jpg"
+03-16-2017 @ 06:10:50 - > > Images set
+03-16-2017 @ 06:10:50 - > Finished importing post ID 2414.
+03-16-2017 @ 06:10:50 - > Row 3 - preparing for import.
+03-16-2017 @ 06:10:50 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:10:50 - > Inserting Kelyn Natural  Hair Remover -Lemon
+03-16-2017 @ 06:10:50 - > Inserted - post ID is 2412.
+03-16-2017 @ 06:10:52 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/4.jpg"
+03-16-2017 @ 06:10:54 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/4.jpg"
+03-16-2017 @ 06:10:54 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/4.jpg"
+03-16-2017 @ 06:10:54 - > > Images set
+03-16-2017 @ 06:10:54 - > Finished importing post ID 2412.
+03-16-2017 @ 06:10:54 - > Row 4 - preparing for import.
+03-16-2017 @ 06:10:54 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:10:54 - > Inserting Kelyn Natural Face Wash - Charcoal
+03-16-2017 @ 06:10:55 - > Inserted - post ID is 2410.
+03-16-2017 @ 06:10:57 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/3.jpg"
+03-16-2017 @ 06:10:58 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/3.jpg"
+03-16-2017 @ 06:10:58 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/3.jpg"
+03-16-2017 @ 06:10:58 - > > Images set
+03-16-2017 @ 06:10:58 - > Finished importing post ID 2410.
+03-16-2017 @ 06:10:58 - > Row 5 - preparing for import.
+03-16-2017 @ 06:10:58 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:10:58 - > Inserting Kelyn Natural Face Wash -  Neem
+03-16-2017 @ 06:10:59 - > Inserted - post ID is 2408.
+03-16-2017 @ 06:11:01 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/2.jpg"
+03-16-2017 @ 06:11:03 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/2.jpg"
+03-16-2017 @ 06:11:03 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/2.jpg"
+03-16-2017 @ 06:11:03 - > > Images set
+03-16-2017 @ 06:11:03 - > Finished importing post ID 2408.
+03-16-2017 @ 06:11:03 - > Row 6 - preparing for import.
+03-16-2017 @ 06:11:03 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:11:03 - > Inserting Kelyn Natural Face Wash -  Lemon
+03-16-2017 @ 06:11:04 - > Inserted - post ID is 2405.
+03-16-2017 @ 06:11:06 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/1.jpg"
+03-16-2017 @ 06:11:07 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/1.jpg"
+03-16-2017 @ 06:11:07 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/1.jpg"
+03-16-2017 @ 06:11:07 - > > Images set
+03-16-2017 @ 06:11:07 - > Finished importing post ID 2405.
+03-16-2017 @ 06:11:07 - > Row 7 - preparing for import.
+03-16-2017 @ 06:11:07 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:11:07 - > Inserting Blue Magic Mug
+03-16-2017 @ 06:11:08 - > Inserted - post ID is 2391.
+03-16-2017 @ 06:11:11 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/blue.jpg"
+03-16-2017 @ 06:11:13 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/blue.jpg"
+03-16-2017 @ 06:11:13 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/blue.jpg"
+03-16-2017 @ 06:11:14 - > > Images set
+03-16-2017 @ 06:11:14 - > Finished importing post ID 2391.
+03-16-2017 @ 06:11:14 - > Row 8 - preparing for import.
+03-16-2017 @ 06:11:14 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:11:14 - > Inserting Orange Rim Mug
+03-16-2017 @ 06:11:15 - > Inserted - post ID is 2390.
+03-16-2017 @ 06:11:17 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/4dca773e775a42eebbbd2c03366c4937.png"
+03-16-2017 @ 06:11:21 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/4dca773e775a42eebbbd2c03366c4937.png"
+03-16-2017 @ 06:11:21 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/4dca773e775a42eebbbd2c03366c4937.png"
+03-16-2017 @ 06:11:22 - > > Images set
+03-16-2017 @ 06:11:22 - > Finished importing post ID 2390.
+03-16-2017 @ 06:11:22 - > Row 9 - preparing for import.
+03-16-2017 @ 06:11:22 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:11:22 - > Inserting Universal Phone Or Tablet stands
+03-16-2017 @ 06:11:22 - > Inserted - post ID is 2385.
+03-16-2017 @ 06:11:24 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Universal-Phone-Or-Tablet-stands.jpg"
+03-16-2017 @ 06:11:27 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Universal-Phone-Or-Tablet-stands.jpg"
+03-16-2017 @ 06:11:27 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Universal-Phone-Or-Tablet-stands.jpg"
+03-16-2017 @ 06:11:27 - > > Images set
+03-16-2017 @ 06:11:27 - > Finished importing post ID 2385.
+03-16-2017 @ 06:11:27 - > Row 10 - preparing for import.
+03-16-2017 @ 06:11:27 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:11:27 - > Inserting Homio Lunch Box 8505 (Three Layers Heat Preservation)
+03-16-2017 @ 06:11:28 - > Inserted - post ID is 2383.
+03-16-2017 @ 06:11:30 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Homio-Lunch-box.jpg"
+03-16-2017 @ 06:11:33 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Homio-Lunch-box.jpg"
+03-16-2017 @ 06:11:33 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Homio-Lunch-box.jpg"
+03-16-2017 @ 06:11:33 - > > Images set
+03-16-2017 @ 06:11:33 - > Finished importing post ID 2383.
+03-16-2017 @ 06:11:33 - Finished processing products.
+03-16-2017 @ 06:11:36 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:11:36 - Parsing products CSV.
+03-16-2017 @ 06:11:36 - Finished parsing products CSV.
+03-16-2017 @ 06:11:36 - ---
+03-16-2017 @ 06:11:36 - Processing products.
+03-16-2017 @ 06:11:36 - > Row 1 - preparing for import.
+03-16-2017 @ 06:11:36 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:11:36 - > Inserting High Quality Ice-Cream Mold Kt767
+03-16-2017 @ 06:11:37 - > Inserted - post ID is 2381.
+03-16-2017 @ 06:11:39 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/High-Quality-Ice.jpg"
+03-16-2017 @ 06:11:41 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/High-Quality-Ice.jpg"
+03-16-2017 @ 06:11:41 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/High-Quality-Ice.jpg"
+03-16-2017 @ 06:11:41 - > > Images set
+03-16-2017 @ 06:11:42 - > Finished importing post ID 2381.
+03-16-2017 @ 06:11:42 - > Row 2 - preparing for import.
+03-16-2017 @ 06:11:42 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:11:42 - > Inserting Hand Crank vegetable Chopper
+03-16-2017 @ 06:11:42 - > Inserted - post ID is 2379.
+03-16-2017 @ 06:11:44 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Hand-crank-vegetable-chopper.jpg"
+03-16-2017 @ 06:11:47 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Hand-crank-vegetable-chopper.jpg"
+03-16-2017 @ 06:11:47 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Hand-crank-vegetable-chopper.jpg"
+03-16-2017 @ 06:11:47 - > > Images set
+03-16-2017 @ 06:11:47 - > Finished importing post ID 2379.
+03-16-2017 @ 06:11:47 - > Row 3 - preparing for import.
+03-16-2017 @ 06:11:47 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:11:47 - > Inserting Noodles cutter &amp; garlic crusher kt597
+03-16-2017 @ 06:11:47 - > Inserted - post ID is 2377.
+03-16-2017 @ 06:11:49 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Untitled-1.jpg"
+03-16-2017 @ 06:11:53 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Untitled-1.jpg"
+03-16-2017 @ 06:11:53 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Untitled-1.jpg"
+03-16-2017 @ 06:11:53 - > > Images set
+03-16-2017 @ 06:11:53 - > Finished importing post ID 2377.
+03-16-2017 @ 06:11:53 - > Row 4 - preparing for import.
+03-16-2017 @ 06:11:53 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:11:53 - > Inserting Special Roti Maker
+03-16-2017 @ 06:11:54 - > Inserted - post ID is 2374.
+03-16-2017 @ 06:11:56 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Special-Roti-Maker.jpg"
+03-16-2017 @ 06:11:59 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Special-Roti-Maker.jpg"
+03-16-2017 @ 06:11:59 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Special-Roti-Maker.jpg"
+03-16-2017 @ 06:11:59 - > > Images set
+03-16-2017 @ 06:11:59 - > Finished importing post ID 2374.
+03-16-2017 @ 06:11:59 - > Row 5 - preparing for import.
+03-16-2017 @ 06:11:59 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:11:59 - > Inserting Hand noodle maker
+03-16-2017 @ 06:11:59 - > Inserted - post ID is 2372.
+03-16-2017 @ 06:12:02 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Hand-Noodles-Maker.jpg"
+03-16-2017 @ 06:12:05 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Hand-Noodles-Maker.jpg"
+03-16-2017 @ 06:12:05 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Hand-Noodles-Maker.jpg"
+03-16-2017 @ 06:12:06 - > > Images set
+03-16-2017 @ 06:12:06 - > Finished importing post ID 2372.
+03-16-2017 @ 06:12:06 - > Row 6 - preparing for import.
+03-16-2017 @ 06:12:06 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:12:06 - > Inserting apple,potato peeler,silcer,corer GD195
+03-16-2017 @ 06:12:06 - > Inserted - post ID is 2370.
+03-16-2017 @ 06:12:08 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/applepotato-peelersilcercorer-GD195.jpg"
+03-16-2017 @ 06:12:12 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/applepotato-peelersilcercorer-GD195.jpg"
+03-16-2017 @ 06:12:12 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/applepotato-peelersilcercorer-GD195.jpg"
+03-16-2017 @ 06:12:12 - > > Images set
+03-16-2017 @ 06:12:12 - > Finished importing post ID 2370.
+03-16-2017 @ 06:12:12 - > Row 7 - preparing for import.
+03-16-2017 @ 06:12:12 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:12:12 - > Inserting miyako sandwich maker
+03-16-2017 @ 06:12:13 - > Inserted - post ID is 2368.
+03-16-2017 @ 06:12:15 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/miyako-sandwich-maker.jpg"
+03-16-2017 @ 06:12:17 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/miyako-sandwich-maker.jpg"
+03-16-2017 @ 06:12:17 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/miyako-sandwich-maker.jpg"
+03-16-2017 @ 06:12:17 - > > Images set
+03-16-2017 @ 06:12:17 - > Finished importing post ID 2368.
+03-16-2017 @ 06:12:17 - > Row 8 - preparing for import.
+03-16-2017 @ 06:12:17 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:12:17 - > Inserting Carrot/Vegetable Sharpener
+03-16-2017 @ 06:12:18 - > Inserted - post ID is 2366.
+03-16-2017 @ 06:12:20 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Carrot-Vegetable-Sharpener.jpg"
+03-16-2017 @ 06:12:23 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Carrot-Vegetable-Sharpener.jpg"
+03-16-2017 @ 06:12:23 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Carrot-Vegetable-Sharpener.jpg"
+03-16-2017 @ 06:12:23 - > > Images set
+03-16-2017 @ 06:12:24 - > Finished importing post ID 2366.
+03-16-2017 @ 06:12:24 - > Row 9 - preparing for import.
+03-16-2017 @ 06:12:24 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:12:24 - > Inserting Multifunction Egg Boil/Fry Pan
+03-16-2017 @ 06:12:24 - > Inserted - post ID is 2364.
+03-16-2017 @ 06:12:26 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Multifunction-Egg-Boil-Fry-Pan.jpg"
+03-16-2017 @ 06:12:30 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Multifunction-Egg-Boil-Fry-Pan.jpg"
+03-16-2017 @ 06:12:30 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Multifunction-Egg-Boil-Fry-Pan.jpg"
+03-16-2017 @ 06:12:31 - > > Images set
+03-16-2017 @ 06:12:31 - > Finished importing post ID 2364.
+03-16-2017 @ 06:12:31 - > Row 10 - preparing for import.
+03-16-2017 @ 06:12:31 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:12:31 - > Inserting Famous Quick Chef Cutter kt 160
+03-16-2017 @ 06:12:32 - > Inserted - post ID is 2362.
+03-16-2017 @ 06:12:34 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/10/Famous-Quick-Chef-Cutter-kt-160.jpg"
+03-16-2017 @ 06:12:38 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/10/Famous-Quick-Chef-Cutter-kt-160.jpg"
+03-16-2017 @ 06:12:38 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/10/Famous-Quick-Chef-Cutter-kt-160.jpg"
+03-16-2017 @ 06:12:38 - > > Images set
+03-16-2017 @ 06:12:38 - > Finished importing post ID 2362.
+03-16-2017 @ 06:12:38 - Finished processing products.
+03-16-2017 @ 06:12:40 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:12:40 - Parsing products CSV.
+03-16-2017 @ 06:12:40 - Finished parsing products CSV.
+03-16-2017 @ 06:12:40 - ---
+03-16-2017 @ 06:12:40 - Processing products.
+03-16-2017 @ 06:12:40 - > Row 1 - preparing for import.
+03-16-2017 @ 06:12:40 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:12:40 - > Inserting Stainless Steel French Fry Potato Cutter Maker Slicer Chopper Dicer 2 Blades
+03-16-2017 @ 06:12:41 - > Inserted - post ID is 2356.
+03-16-2017 @ 06:12:44 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/potteto-kater.jpg"
+03-16-2017 @ 06:12:47 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/potteto-kater.jpg"
+03-16-2017 @ 06:12:47 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/potteto-kater.jpg"
+03-16-2017 @ 06:12:47 - > > Images set
+03-16-2017 @ 06:12:47 - > Finished importing post ID 2356.
+03-16-2017 @ 06:12:47 - > Row 2 - preparing for import.
+03-16-2017 @ 06:12:47 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:12:47 - > Inserting Noodles/Semai Maker
+03-16-2017 @ 06:12:47 - > Inserted - post ID is 2354.
+03-16-2017 @ 06:12:50 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/noodles-semai-e1475133941521.jpg"
+03-16-2017 @ 06:12:51 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/noodles-semai-e1475133941521.jpg"
+03-16-2017 @ 06:12:51 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/noodles-semai-e1475133941521.jpg"
+03-16-2017 @ 06:12:51 - > > Images set
+03-16-2017 @ 06:12:51 - > Finished importing post ID 2354.
+03-16-2017 @ 06:12:51 - > Row 3 - preparing for import.
+03-16-2017 @ 06:12:51 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:12:51 - > Inserting Magic bullet Blender 21 ps set
+03-16-2017 @ 06:12:52 - > Inserted - post ID is 2352.
+03-16-2017 @ 06:12:54 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/Magic-bullet-Blender-21-ps-set.jpg"
+03-16-2017 @ 06:12:56 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/Magic-bullet-Blender-21-ps-set.jpg"
+03-16-2017 @ 06:12:56 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/Magic-bullet-Blender-21-ps-set.jpg"
+03-16-2017 @ 06:12:56 - > > Images set
+03-16-2017 @ 06:12:56 - > Finished importing post ID 2352.
+03-16-2017 @ 06:12:56 - > Row 4 - preparing for import.
+03-16-2017 @ 06:12:56 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:12:56 - > Inserting Onion &amp; Garlic Slicer Cutter
+03-16-2017 @ 06:12:56 - > Inserted - post ID is 2350.
+03-16-2017 @ 06:12:58 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/Onion-Garlic-Slicer-Cutter.jpg"
+03-16-2017 @ 06:13:02 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/Onion-Garlic-Slicer-Cutter.jpg"
+03-16-2017 @ 06:13:02 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/Onion-Garlic-Slicer-Cutter.jpg"
+03-16-2017 @ 06:13:02 - > > Images set
+03-16-2017 @ 06:13:02 - > Finished importing post ID 2350.
+03-16-2017 @ 06:13:02 - > Row 5 - preparing for import.
+03-16-2017 @ 06:13:02 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:13:02 - > Inserting Multi-function hand juice maker gd140
+03-16-2017 @ 06:13:02 - > Inserted - post ID is 2348.
+03-16-2017 @ 06:13:05 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/11-1.jpg"
+03-16-2017 @ 06:13:08 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/11-1.jpg"
+03-16-2017 @ 06:13:08 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/11-1.jpg"
+03-16-2017 @ 06:13:08 - > > Images set
+03-16-2017 @ 06:13:08 - > Finished importing post ID 2348.
+03-16-2017 @ 06:13:08 - > Row 6 - preparing for import.
+03-16-2017 @ 06:13:08 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:13:08 - > Inserting Multi-function Meat Grinder MG08
+03-16-2017 @ 06:13:09 - > Inserted - post ID is 2346.
+03-16-2017 @ 06:13:12 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/Multi-functional-Meat-Grinder-MG08.jpg"
+03-16-2017 @ 06:13:17 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/Multi-functional-Meat-Grinder-MG08.jpg"
+03-16-2017 @ 06:13:17 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/Multi-functional-Meat-Grinder-MG08.jpg"
+03-16-2017 @ 06:13:17 - > > Images set
+03-16-2017 @ 06:13:17 - > Finished importing post ID 2346.
+03-16-2017 @ 06:13:17 - > Row 7 - preparing for import.
+03-16-2017 @ 06:13:17 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:13:17 - > Inserting Multi Cutter With Peeler 2-in-1.
+03-16-2017 @ 06:13:17 - > Inserted - post ID is 2344.
+03-16-2017 @ 06:13:19 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/multi-Cutter-With-Peeler-2-in-1..jpg"
+03-16-2017 @ 06:13:23 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/multi-Cutter-With-Peeler-2-in-1..jpg"
+03-16-2017 @ 06:13:23 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/multi-Cutter-With-Peeler-2-in-1..jpg"
+03-16-2017 @ 06:13:23 - > > Images set
+03-16-2017 @ 06:13:23 - > Finished importing post ID 2344.
+03-16-2017 @ 06:13:23 - > Row 8 - preparing for import.
+03-16-2017 @ 06:13:23 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:13:23 - > Inserting Onion &amp; Garlic Chopper tool
+03-16-2017 @ 06:13:24 - > Inserted - post ID is 2342.
+03-16-2017 @ 06:13:26 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/Onion-Garlic-Chopper-tool.jpg"
+03-16-2017 @ 06:13:28 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/Onion-Garlic-Chopper-tool.jpg"
+03-16-2017 @ 06:13:28 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/Onion-Garlic-Chopper-tool.jpg"
+03-16-2017 @ 06:13:29 - > > Images set
+03-16-2017 @ 06:13:29 - > Finished importing post ID 2342.
+03-16-2017 @ 06:13:29 - > Row 9 - preparing for import.
+03-16-2017 @ 06:13:29 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:13:29 - > Inserting Stainless steel chicken shredding scissor
+03-16-2017 @ 06:13:29 - > Inserted - post ID is 2340.
+03-16-2017 @ 06:13:31 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/Stainless-steel-chicken-shredding-scissor.jpg"
+03-16-2017 @ 06:13:35 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/Stainless-steel-chicken-shredding-scissor.jpg"
+03-16-2017 @ 06:13:35 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/Stainless-steel-chicken-shredding-scissor.jpg"
+03-16-2017 @ 06:13:35 - > > Images set
+03-16-2017 @ 06:13:35 - > Finished importing post ID 2340.
+03-16-2017 @ 06:13:35 - > Row 10 - preparing for import.
+03-16-2017 @ 06:13:35 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:13:35 - > Inserting drink Frother/Coffee Mixer
+03-16-2017 @ 06:13:35 - > Inserted - post ID is 2338.
+03-16-2017 @ 06:13:37 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/drink-Frotherr.jpg"
+03-16-2017 @ 06:13:40 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/drink-Frotherr.jpg"
+03-16-2017 @ 06:13:40 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/drink-Frotherr.jpg"
+03-16-2017 @ 06:13:41 - > > Images set
+03-16-2017 @ 06:13:41 - > Finished importing post ID 2338.
+03-16-2017 @ 06:13:41 - Finished processing products.
+03-16-2017 @ 06:13:43 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:13:43 - Parsing products CSV.
+03-16-2017 @ 06:13:43 - Finished parsing products CSV.
+03-16-2017 @ 06:13:43 - ---
+03-16-2017 @ 06:13:43 - Processing products.
+03-16-2017 @ 06:13:43 - > Row 1 - preparing for import.
+03-16-2017 @ 06:13:43 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:13:43 - > Inserting coke decorator cotton Lcing bag +12 cream preesser nozzles
+03-16-2017 @ 06:13:43 - > Inserted - post ID is 2336.
+03-16-2017 @ 06:13:46 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/core-decorator-cotton-Lcing-bag-12-cream-preesser-nozzles.jpg"
+03-16-2017 @ 06:13:48 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/core-decorator-cotton-Lcing-bag-12-cream-preesser-nozzles.jpg"
+03-16-2017 @ 06:13:48 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/core-decorator-cotton-Lcing-bag-12-cream-preesser-nozzles.jpg"
+03-16-2017 @ 06:13:48 - > > Images set
+03-16-2017 @ 06:13:48 - > Finished importing post ID 2336.
+03-16-2017 @ 06:13:48 - > Row 2 - preparing for import.
+03-16-2017 @ 06:13:48 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:13:48 - > Inserting 7in 1 kitchen grater cutter,Slicer kt 756
+03-16-2017 @ 06:13:49 - > Inserted - post ID is 2333.
+03-16-2017 @ 06:13:51 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/7in-1-kitchen-grater-cutterSlicer-kt756.jpg"
+03-16-2017 @ 06:13:55 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/7in-1-kitchen-grater-cutterSlicer-kt756.jpg"
+03-16-2017 @ 06:13:55 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/7in-1-kitchen-grater-cutterSlicer-kt756.jpg"
+03-16-2017 @ 06:13:55 - > > Images set
+03-16-2017 @ 06:13:55 - > Finished importing post ID 2333.
+03-16-2017 @ 06:13:55 - > Row 3 - preparing for import.
+03-16-2017 @ 06:13:55 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:13:55 - > Inserting Magic Mug Black
+03-16-2017 @ 06:13:55 - > Inserted - post ID is 2330.
+03-16-2017 @ 06:13:57 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/varazsbogre_rendeles_panorama_keppel.png"
+03-16-2017 @ 06:14:01 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/varazsbogre_rendeles_panorama_keppel.png"
+03-16-2017 @ 06:14:01 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/varazsbogre_rendeles_panorama_keppel.png"
+03-16-2017 @ 06:14:01 - > > Images set
+03-16-2017 @ 06:14:01 - > Finished importing post ID 2330.
+03-16-2017 @ 06:14:01 - > Row 4 - preparing for import.
+03-16-2017 @ 06:14:01 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:14:01 - > Inserting Black Rim Mug
+03-16-2017 @ 06:14:01 - > Inserted - post ID is 2325.
+03-16-2017 @ 06:14:03 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/rim-w.png"
+03-16-2017 @ 06:14:05 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/rim-w.png"
+03-16-2017 @ 06:14:05 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/rim-w.png"
+03-16-2017 @ 06:14:05 - > > Images set
+03-16-2017 @ 06:14:05 - > Finished importing post ID 2325.
+03-16-2017 @ 06:14:05 - > Row 5 - preparing for import.
+03-16-2017 @ 06:14:05 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:14:05 - > Inserting LAYER&#039;R SHOTS DEODORANT- DEEP DESIRE BODY MIST - 135 ML
+03-16-2017 @ 06:14:06 - > Inserted - post ID is 2322.
+03-16-2017 @ 06:14:08 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/2.-LAYER-R-SHOT-DEEP.jpg"
+03-16-2017 @ 06:14:10 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/2.-LAYER-R-SHOT-DEEP.jpg"
+03-16-2017 @ 06:14:10 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/2.-LAYER-R-SHOT-DEEP.jpg"
+03-16-2017 @ 06:14:10 - > > Images set
+03-16-2017 @ 06:14:11 - > Finished importing post ID 2322.
+03-16-2017 @ 06:14:11 - > Row 6 - preparing for import.
+03-16-2017 @ 06:14:11 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:14:11 - > Inserting Layer&#039;r Wottagirl Gold - Crimson Chic - LAYER-R-WOTTA-G-CHIC - 135ml
+03-16-2017 @ 06:14:11 - > Inserted - post ID is 2320.
+03-16-2017 @ 06:14:13 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/19.-LAYER-R-WOTTA-G-CHIC.png"
+03-16-2017 @ 06:14:15 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/19.-LAYER-R-WOTTA-G-CHIC.png"
+03-16-2017 @ 06:14:15 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/19.-LAYER-R-WOTTA-G-CHIC.png"
+03-16-2017 @ 06:14:15 - > > Images set
+03-16-2017 @ 06:14:15 - > Finished importing post ID 2320.
+03-16-2017 @ 06:14:15 - > Row 7 - preparing for import.
+03-16-2017 @ 06:14:15 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:14:15 - > Inserting Silver Metal Self-Stirring Mug
+03-16-2017 @ 06:14:15 - > Inserted - post ID is 2311.
+03-16-2017 @ 06:14:17 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/Untitled-4.jpg"
+03-16-2017 @ 06:14:19 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/Untitled-4.jpg"
+03-16-2017 @ 06:14:19 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/Untitled-4.jpg"
+03-16-2017 @ 06:14:19 - > > Images set
+03-16-2017 @ 06:14:20 - > Finished importing post ID 2311.
+03-16-2017 @ 06:14:20 - > Row 8 - preparing for import.
+03-16-2017 @ 06:14:20 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:14:20 - > Inserting RECHARGEABLE FAN AND LIGHT
+03-16-2017 @ 06:14:20 - > Inserted - post ID is 2303.
+03-16-2017 @ 06:14:22 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/RECHARGEABLE-FAN-AND-LIGHT.jpg"
+03-16-2017 @ 06:14:25 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/RECHARGEABLE-FAN-AND-LIGHT.jpg"
+03-16-2017 @ 06:14:25 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/RECHARGEABLE-FAN-AND-LIGHT.jpg"
+03-16-2017 @ 06:14:25 - > > Images set
+03-16-2017 @ 06:14:25 - > Finished importing post ID 2303.
+03-16-2017 @ 06:14:25 - > Row 9 - preparing for import.
+03-16-2017 @ 06:14:25 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:14:25 - > Inserting SELFIE STICK WITH BLUETOOTH REMOTE
+03-16-2017 @ 06:14:26 - > Inserted - post ID is 2298.
+03-16-2017 @ 06:14:27 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/SELFIE-STICK-WITH-BLUETOOTH-REMOTE.png"
+03-16-2017 @ 06:14:31 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/SELFIE-STICK-WITH-BLUETOOTH-REMOTE.png"
+03-16-2017 @ 06:14:31 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/SELFIE-STICK-WITH-BLUETOOTH-REMOTE.png"
+03-16-2017 @ 06:14:31 - > > Images set
+03-16-2017 @ 06:14:31 - > Finished importing post ID 2298.
+03-16-2017 @ 06:14:31 - > Row 10 - preparing for import.
+03-16-2017 @ 06:14:31 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:14:31 - > Inserting 16 LED SELFIE FLASH LIGHT
+03-16-2017 @ 06:14:31 - > Inserted - post ID is 2296.
+03-16-2017 @ 06:14:34 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/Untitled-2.jpg"
+03-16-2017 @ 06:14:36 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/Untitled-2.jpg"
+03-16-2017 @ 06:14:36 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/Untitled-2.jpg"
+03-16-2017 @ 06:14:36 - > > Images set
+03-16-2017 @ 06:14:37 - > Finished importing post ID 2296.
+03-16-2017 @ 06:14:37 - Finished processing products.
+03-16-2017 @ 06:14:40 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:14:40 - Parsing products CSV.
+03-16-2017 @ 06:14:40 - Finished parsing products CSV.
+03-16-2017 @ 06:14:40 - ---
+03-16-2017 @ 06:14:40 - Processing products.
+03-16-2017 @ 06:14:40 - > Row 1 - preparing for import.
+03-16-2017 @ 06:14:40 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:14:40 - > Inserting ELECTRONIC CIGARETTE CE5
+03-16-2017 @ 06:14:41 - > Inserted - post ID is 2205.
+03-16-2017 @ 06:14:44 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/ce-5-101x125-1.jpg"
+03-16-2017 @ 06:14:46 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/ce-5-101x125-1.jpg"
+03-16-2017 @ 06:14:46 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/ce-5-101x125-1.jpg"
+03-16-2017 @ 06:14:46 - > > Images set
+03-16-2017 @ 06:14:46 - > Finished importing post ID 2205.
+03-16-2017 @ 06:14:46 - > Row 2 - preparing for import.
+03-16-2017 @ 06:14:46 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:14:46 - > Inserting LED 7 COLOR DIGITAL ALARM THERMOMETER CLOCK
+03-16-2017 @ 06:14:47 - > Inserted - post ID is 2203.
+03-16-2017 @ 06:14:49 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/LES-7-color-dgtl-alarm-clock-270x320.jpg"
+03-16-2017 @ 06:14:50 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/LES-7-color-dgtl-alarm-clock-270x320.jpg"
+03-16-2017 @ 06:14:50 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/LES-7-color-dgtl-alarm-clock-270x320.jpg"
+03-16-2017 @ 06:14:50 - > > Images set
+03-16-2017 @ 06:14:50 - > Finished importing post ID 2203.
+03-16-2017 @ 06:14:50 - > Row 3 - preparing for import.
+03-16-2017 @ 06:14:50 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:14:50 - > Inserting PORTABLE LAPTOP TABLE-T8
+03-16-2017 @ 06:14:50 - > Inserted - post ID is 2201.
+03-16-2017 @ 06:14:52 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/e-table.jpg"
+03-16-2017 @ 06:14:54 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/e-table.jpg"
+03-16-2017 @ 06:14:54 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/e-table.jpg"
+03-16-2017 @ 06:14:54 - > > Images set
+03-16-2017 @ 06:14:54 - > Finished importing post ID 2201.
+03-16-2017 @ 06:14:54 - > Row 4 - preparing for import.
+03-16-2017 @ 06:14:54 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:14:54 - > Inserting MI 10400 MAH পাওয়ার ব্যাঙ্ক
+03-16-2017 @ 06:14:54 - > Inserted - post ID is 2199.
+03-16-2017 @ 06:14:56 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/power-Bank.jpg"
+03-16-2017 @ 06:14:59 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/power-Bank.jpg"
+03-16-2017 @ 06:14:59 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/power-Bank.jpg"
+03-16-2017 @ 06:14:59 - > > Images set
+03-16-2017 @ 06:14:59 - > Finished importing post ID 2199.
+03-16-2017 @ 06:14:59 - > Row 5 - preparing for import.
+03-16-2017 @ 06:14:59 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:14:59 - > Inserting MUSHROOM MULTIMEDIA SPEAKER
+03-16-2017 @ 06:14:59 - > Inserted - post ID is 2196.
+03-16-2017 @ 06:15:01 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/Mushroom-Multimedia-Speaker.jpg"
+03-16-2017 @ 06:15:04 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/Mushroom-Multimedia-Speaker.jpg"
+03-16-2017 @ 06:15:04 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/Mushroom-Multimedia-Speaker.jpg"
+03-16-2017 @ 06:15:05 - > > Images set
+03-16-2017 @ 06:15:05 - > Finished importing post ID 2196.
+03-16-2017 @ 06:15:05 - > Row 6 - preparing for import.
+03-16-2017 @ 06:15:05 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:15:05 - > Inserting Silkygirl Moisture Boost Lip Balm
+03-16-2017 @ 06:15:05 - > Inserted - post ID is 2192.
+03-16-2017 @ 06:15:07 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/other-1293-636749-1-zoom.jpg"
+03-16-2017 @ 06:15:09 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/other-1293-636749-1-zoom.jpg"
+03-16-2017 @ 06:15:09 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/other-1293-636749-1-zoom.jpg"
+03-16-2017 @ 06:15:09 - > > Images set
+03-16-2017 @ 06:15:09 - > Finished importing post ID 2192.
+03-16-2017 @ 06:15:09 - > Row 7 - preparing for import.
+03-16-2017 @ 06:15:09 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:15:09 - > Inserting Silkygirl Magic BB(All-In-One) Powder Foundation.
+03-16-2017 @ 06:15:10 - > Inserted - post ID is 2189.
+03-16-2017 @ 06:15:12 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/other-1182-136749-1-zoom.jpg"
+03-16-2017 @ 06:15:14 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/other-1182-136749-1-zoom.jpg"
+03-16-2017 @ 06:15:14 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/other-1182-136749-1-zoom.jpg"
+03-16-2017 @ 06:15:15 - > > Images set
+03-16-2017 @ 06:15:15 - > Finished importing post ID 2189.
+03-16-2017 @ 06:15:15 - > Row 8 - preparing for import.
+03-16-2017 @ 06:15:15 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:15:15 - > Inserting Australis Metallix Eye-shadows
+03-16-2017 @ 06:15:15 - > Inserted - post ID is 2186.
+03-16-2017 @ 06:15:17 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/other-5214-781479-1-zoom.jpg"
+03-16-2017 @ 06:15:19 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/other-5214-781479-1-zoom.jpg"
+03-16-2017 @ 06:15:19 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/other-5214-781479-1-zoom.jpg"
+03-16-2017 @ 06:15:19 - > > Images set
+03-16-2017 @ 06:15:19 - > Finished importing post ID 2186.
+03-16-2017 @ 06:15:19 - > Row 9 - preparing for import.
+03-16-2017 @ 06:15:19 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:15:19 - > Inserting SOL Beauty Hair Building Fibers
+03-16-2017 @ 06:15:19 - > Inserted - post ID is 2184.
+03-16-2017 @ 06:15:21 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/other-3877-861479-1-zoom.jpg"
+03-16-2017 @ 06:15:24 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/other-3877-861479-1-zoom.jpg"
+03-16-2017 @ 06:15:24 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/other-3877-861479-1-zoom.jpg"
+03-16-2017 @ 06:15:24 - > > Images set
+03-16-2017 @ 06:15:24 - > Finished importing post ID 2184.
+03-16-2017 @ 06:15:24 - > Row 10 - preparing for import.
+03-16-2017 @ 06:15:24 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:15:24 - > Inserting CATRICE All round Concealer
+03-16-2017 @ 06:15:25 - > Inserted - post ID is 2182.
+03-16-2017 @ 06:15:27 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/other-3392-161479-1-zoom.jpg"
+03-16-2017 @ 06:15:29 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/other-3392-161479-1-zoom.jpg"
+03-16-2017 @ 06:15:29 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/other-3392-161479-1-zoom.jpg"
+03-16-2017 @ 06:15:29 - > > Images set
+03-16-2017 @ 06:15:30 - > Finished importing post ID 2182.
+03-16-2017 @ 06:15:30 - Finished processing products.
+03-16-2017 @ 06:15:32 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:15:32 - Parsing products CSV.
+03-16-2017 @ 06:15:33 - Finished parsing products CSV.
+03-16-2017 @ 06:15:33 - ---
+03-16-2017 @ 06:15:33 - Processing products.
+03-16-2017 @ 06:15:33 - > Row 1 - preparing for import.
+03-16-2017 @ 06:15:33 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:15:33 - > Inserting CATRICE Absolute Nude Eye-shadow Palette
+03-16-2017 @ 06:15:33 - > Inserted - post ID is 2180.
+03-16-2017 @ 06:15:35 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/other-3001-951479-1-zoom.jpg"
+03-16-2017 @ 06:15:39 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/other-3001-951479-1-zoom.jpg"
+03-16-2017 @ 06:15:39 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/other-3001-951479-1-zoom.jpg"
+03-16-2017 @ 06:15:39 - > > Images set
+03-16-2017 @ 06:15:39 - > Finished importing post ID 2180.
+03-16-2017 @ 06:15:39 - > Row 2 - preparing for import.
+03-16-2017 @ 06:15:39 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:15:39 - > Inserting Lactacyd Soft &amp; Silky Moisturizing Daily Feminine Wash -60mL
+03-16-2017 @ 06:15:39 - > Inserted - post ID is 2177.
+03-16-2017 @ 06:15:41 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/other-2466-251479-1-zoom.jpg"
+03-16-2017 @ 06:15:43 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/other-2466-251479-1-zoom.jpg"
+03-16-2017 @ 06:15:43 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/other-2466-251479-1-zoom.jpg"
+03-16-2017 @ 06:15:43 - > > Images set
+03-16-2017 @ 06:15:43 - > Finished importing post ID 2177.
+03-16-2017 @ 06:15:43 - > Row 3 - preparing for import.
+03-16-2017 @ 06:15:43 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:15:43 - > Inserting Lactacyd White Intimate Whitening Daily Feminine Wash -60mL
+03-16-2017 @ 06:15:44 - > Inserted - post ID is 2175.
+03-16-2017 @ 06:15:45 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/other-1670-641479-1-zoom.jpg"
+03-16-2017 @ 06:15:47 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/other-1670-641479-1-zoom.jpg"
+03-16-2017 @ 06:15:47 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/other-1670-641479-1-zoom.jpg"
+03-16-2017 @ 06:15:47 - > > Images set
+03-16-2017 @ 06:15:47 - > Finished importing post ID 2175.
+03-16-2017 @ 06:15:47 - > Row 4 - preparing for import.
+03-16-2017 @ 06:15:47 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:15:47 - > Inserting Magic BB Stick Powder Foundation
+03-16-2017 @ 06:15:47 - > Inserted - post ID is 2172.
+03-16-2017 @ 06:15:49 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/other-1056-041479-1-zoom.jpg"
+03-16-2017 @ 06:15:52 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/other-1056-041479-1-zoom.jpg"
+03-16-2017 @ 06:15:52 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/other-1056-041479-1-zoom.jpg"
+03-16-2017 @ 06:15:52 - > > Images set
+03-16-2017 @ 06:15:52 - > Finished importing post ID 2172.
+03-16-2017 @ 06:15:52 - > Row 5 - preparing for import.
+03-16-2017 @ 06:15:52 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:15:52 - > Inserting Maybelline Makeup Remover Eye &amp; Lip - 40mL
+03-16-2017 @ 06:15:52 - > Inserted - post ID is 2170.
+03-16-2017 @ 06:15:54 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/other-0657-731479-1-zoom.jpg"
+03-16-2017 @ 06:15:57 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/other-0657-731479-1-zoom.jpg"
+03-16-2017 @ 06:15:57 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/other-0657-731479-1-zoom.jpg"
+03-16-2017 @ 06:15:57 - > > Images set
+03-16-2017 @ 06:15:57 - > Finished importing post ID 2170.
+03-16-2017 @ 06:15:57 - > Row 6 - preparing for import.
+03-16-2017 @ 06:15:57 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:15:57 - > Inserting CLEAN &amp; CLEAR® Essentials Oil-control Toner
+03-16-2017 @ 06:15:57 - > Inserted - post ID is 2168.
+03-16-2017 @ 06:16:00 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/other-1744-774379-1-zoom.jpg"
+03-16-2017 @ 06:16:02 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/other-1744-774379-1-zoom.jpg"
+03-16-2017 @ 06:16:02 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/other-1744-774379-1-zoom.jpg"
+03-16-2017 @ 06:16:03 - > > Images set
+03-16-2017 @ 06:16:03 - > Finished importing post ID 2168.
+03-16-2017 @ 06:16:03 - > Row 7 - preparing for import.
+03-16-2017 @ 06:16:03 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:16:03 - > Inserting Maybelline Lasting Drama Gel Liner - Black
+03-16-2017 @ 06:16:03 - > Inserted - post ID is 2162.
+03-16-2017 @ 06:16:05 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/other-0190-754379-1-zoom.jpg"
+03-16-2017 @ 06:16:07 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/other-0190-754379-1-zoom.jpg"
+03-16-2017 @ 06:16:07 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/other-0190-754379-1-zoom.jpg"
+03-16-2017 @ 06:16:07 - > > Images set
+03-16-2017 @ 06:16:07 - > Finished importing post ID 2162.
+03-16-2017 @ 06:16:07 - > Row 8 - preparing for import.
+03-16-2017 @ 06:16:07 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:16:07 - > Inserting Radium Mug
+03-16-2017 @ 06:16:08 - > Inserted - post ID is 2146.
+03-16-2017 @ 06:16:10 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/Untitled-2-copy.jpg"
+03-16-2017 @ 06:16:13 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/Untitled-2-copy.jpg"
+03-16-2017 @ 06:16:13 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/Untitled-2-copy.jpg"
+03-16-2017 @ 06:16:13 - > > Images set
+03-16-2017 @ 06:16:13 - > Finished importing post ID 2146.
+03-16-2017 @ 06:16:13 - > Row 9 - preparing for import.
+03-16-2017 @ 06:16:13 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:16:13 - > Inserting Green Rim Mug
+03-16-2017 @ 06:16:13 - > Inserted - post ID is 2127.
+03-16-2017 @ 06:16:15 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/rim.jpg"
+03-16-2017 @ 06:16:17 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/rim.jpg"
+03-16-2017 @ 06:16:17 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/rim.jpg"
+03-16-2017 @ 06:16:18 - > > Images set
+03-16-2017 @ 06:16:18 - > Finished importing post ID 2127.
+03-16-2017 @ 06:16:18 - > Row 10 - preparing for import.
+03-16-2017 @ 06:16:18 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:16:18 - > Inserting LAYER-R-SHOT-BLUE BLAZE
+03-16-2017 @ 06:16:18 - > Inserted - post ID is 2099.
+03-16-2017 @ 06:16:20 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/1.-LAYER-R-SHOT-BLUE.jpg"
+03-16-2017 @ 06:16:22 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/1.-LAYER-R-SHOT-BLUE.jpg"
+03-16-2017 @ 06:16:22 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/1.-LAYER-R-SHOT-BLUE.jpg"
+03-16-2017 @ 06:16:22 - > > Images set
+03-16-2017 @ 06:16:22 - > Finished importing post ID 2099.
+03-16-2017 @ 06:16:22 - Finished processing products.
+03-16-2017 @ 06:16:26 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:16:26 - Parsing products CSV.
+03-16-2017 @ 06:16:26 - Finished parsing products CSV.
+03-16-2017 @ 06:16:26 - ---
+03-16-2017 @ 06:16:26 - Processing products.
+03-16-2017 @ 06:16:26 - > Row 1 - preparing for import.
+03-16-2017 @ 06:16:26 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:16:26 - > Inserting ENGLISH BLAZER B/S ALL BLACKS-CHAMPION
+03-16-2017 @ 06:16:27 - > Inserted - post ID is 2096.
+03-16-2017 @ 06:16:29 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/15-1.jpg"
+03-16-2017 @ 06:16:31 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/15-1.jpg"
+03-16-2017 @ 06:16:31 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/15-1.jpg"
+03-16-2017 @ 06:16:31 - > > Images set
+03-16-2017 @ 06:16:31 - > Finished importing post ID 2096.
+03-16-2017 @ 06:16:31 - > Row 2 - preparing for import.
+03-16-2017 @ 06:16:31 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:16:31 - > Inserting English Blazer Body Spray-TIMELESS
+03-16-2017 @ 06:16:32 - > Inserted - post ID is 2094.
+03-16-2017 @ 06:16:34 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/15-1.jpg"
+03-16-2017 @ 06:16:36 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/15-1.jpg"
+03-16-2017 @ 06:16:36 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/15-1.jpg"
+03-16-2017 @ 06:16:36 - > > Images set
+03-16-2017 @ 06:16:36 - > Finished importing post ID 2094.
+03-16-2017 @ 06:16:36 - > Row 3 - preparing for import.
+03-16-2017 @ 06:16:36 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:16:36 - > Inserting English Blazer Body Spray (ENGBLA-SAILOR-150)
+03-16-2017 @ 06:16:36 - > Inserted - post ID is 2092.
+03-16-2017 @ 06:16:38 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/10.jpg"
+03-16-2017 @ 06:16:40 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/10.jpg"
+03-16-2017 @ 06:16:40 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/10.jpg"
+03-16-2017 @ 06:16:40 - > > Images set
+03-16-2017 @ 06:16:40 - > Finished importing post ID 2092.
+03-16-2017 @ 06:16:40 - > Row 4 - preparing for import.
+03-16-2017 @ 06:16:40 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:16:40 - > Inserting ENGBLA-ORIGINAL-150-ORIGINAL
+03-16-2017 @ 06:16:41 - > Inserted - post ID is 2090.
+03-16-2017 @ 06:16:43 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/9.jpg"
+03-16-2017 @ 06:16:45 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/9.jpg"
+03-16-2017 @ 06:16:45 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/9.jpg"
+03-16-2017 @ 06:16:45 - > > Images set
+03-16-2017 @ 06:16:45 - > Finished importing post ID 2090.
+03-16-2017 @ 06:16:45 - > Row 5 - preparing for import.
+03-16-2017 @ 06:16:45 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:16:45 - > Inserting ENGBLA-LONDON-SPORT-150
+03-16-2017 @ 06:16:46 - > Inserted - post ID is 2087.
+03-16-2017 @ 06:16:48 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/7.jpg"
+03-16-2017 @ 06:16:50 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/7.jpg"
+03-16-2017 @ 06:16:50 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/7.jpg"
+03-16-2017 @ 06:16:50 - > > Images set
+03-16-2017 @ 06:16:51 - > Finished importing post ID 2087.
+03-16-2017 @ 06:16:51 - > Row 6 - preparing for import.
+03-16-2017 @ 06:16:51 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:16:51 - > Inserting English Blazer Gift Set (ENGBLA-LONDON-150)
+03-16-2017 @ 06:16:51 - > Inserted - post ID is 2086.
+03-16-2017 @ 06:16:53 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/20.jpg"
+03-16-2017 @ 06:16:55 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/20.jpg"
+03-16-2017 @ 06:16:55 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/20.jpg"
+03-16-2017 @ 06:16:55 - > > Images set
+03-16-2017 @ 06:16:55 - > Finished importing post ID 2086.
+03-16-2017 @ 06:16:55 - > Row 7 - preparing for import.
+03-16-2017 @ 06:16:55 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:16:55 - > Inserting ENGLISH BLAZER GIFT SET-LONDON
+03-16-2017 @ 06:16:55 - > Inserted - post ID is 2083.
+03-16-2017 @ 06:16:57 - > Finished importing post ID 2083.
+03-16-2017 @ 06:16:57 - > Row 8 - preparing for import.
+03-16-2017 @ 06:16:57 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:16:57 - > Inserting English Blazer Body Spray-GOLD
+03-16-2017 @ 06:16:58 - > Inserted - post ID is 2081.
+03-16-2017 @ 06:17:00 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/5-1.jpg"
+03-16-2017 @ 06:17:02 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/5-1.jpg"
+03-16-2017 @ 06:17:02 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/5-1.jpg"
+03-16-2017 @ 06:17:02 - > > Images set
+03-16-2017 @ 06:17:02 - > Finished importing post ID 2081.
+03-16-2017 @ 06:17:02 - > Row 9 - preparing for import.
+03-16-2017 @ 06:17:02 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:17:02 - > Inserting English Blazer Body Spray-EMPIRE
+03-16-2017 @ 06:17:03 - > Inserted - post ID is 2079.
+03-16-2017 @ 06:17:05 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/4.jpg"
+03-16-2017 @ 06:17:07 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/4.jpg"
+03-16-2017 @ 06:17:07 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/4.jpg"
+03-16-2017 @ 06:17:07 - > > Images set
+03-16-2017 @ 06:17:07 - > Finished importing post ID 2079.
+03-16-2017 @ 06:17:07 - > Row 10 - preparing for import.
+03-16-2017 @ 06:17:07 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:17:07 - > Inserting English Blazer Body Spray ENGBLA-COPPER-150
+03-16-2017 @ 06:17:08 - > Inserted - post ID is 2077.
+03-16-2017 @ 06:17:10 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/3-1.jpg"
+03-16-2017 @ 06:17:12 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/3-1.jpg"
+03-16-2017 @ 06:17:12 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/3-1.jpg"
+03-16-2017 @ 06:17:12 - > > Images set
+03-16-2017 @ 06:17:12 - > Finished importing post ID 2077.
+03-16-2017 @ 06:17:12 - Finished processing products.
+03-16-2017 @ 06:17:16 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:17:16 - Parsing products CSV.
+03-16-2017 @ 06:17:16 - Finished parsing products CSV.
+03-16-2017 @ 06:17:16 - ---
+03-16-2017 @ 06:17:16 - Processing products.
+03-16-2017 @ 06:17:16 - > Row 1 - preparing for import.
+03-16-2017 @ 06:17:16 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:17:16 - > Inserting ENGBLA-COMMANDO-150
+03-16-2017 @ 06:17:17 - > Inserted - post ID is 2075.
+03-16-2017 @ 06:17:19 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/2-1.jpg"
+03-16-2017 @ 06:17:21 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/2-1.jpg"
+03-16-2017 @ 06:17:22 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/2-1.jpg"
+03-16-2017 @ 06:17:22 - > > Images set
+03-16-2017 @ 06:17:22 - > Finished importing post ID 2075.
+03-16-2017 @ 06:17:22 - > Row 2 - preparing for import.
+03-16-2017 @ 06:17:22 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:17:22 - > Inserting English Blazer Body Spray-BLACK
+03-16-2017 @ 06:17:22 - > Inserted - post ID is 2073.
+03-16-2017 @ 06:17:24 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/01.jpg"
+03-16-2017 @ 06:17:26 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/01.jpg"
+03-16-2017 @ 06:17:26 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/01.jpg"
+03-16-2017 @ 06:17:26 - > > Images set
+03-16-2017 @ 06:17:26 - > Finished importing post ID 2073.
+03-16-2017 @ 06:17:26 - > Row 3 - preparing for import.
+03-16-2017 @ 06:17:26 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:17:26 - > Inserting Colour Me Perfume-SILVER SPORT
+03-16-2017 @ 06:17:27 - > Inserted - post ID is 2071.
+03-16-2017 @ 06:17:29 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/18.jpg"
+03-16-2017 @ 06:17:31 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/18.jpg"
+03-16-2017 @ 06:17:31 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/18.jpg"
+03-16-2017 @ 06:17:31 - > > Images set
+03-16-2017 @ 06:17:31 - > Finished importing post ID 2071.
+03-16-2017 @ 06:17:31 - > Row 4 - preparing for import.
+03-16-2017 @ 06:17:31 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:17:31 - > Inserting Colour Me Body Spray-Pearl
+03-16-2017 @ 06:17:32 - > Inserted - post ID is 2069.
+03-16-2017 @ 06:17:34 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/15.jpg"
+03-16-2017 @ 06:17:36 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/15.jpg"
+03-16-2017 @ 06:17:36 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/15.jpg"
+03-16-2017 @ 06:17:36 - > > Images set
+03-16-2017 @ 06:17:36 - > Finished importing post ID 2069.
+03-16-2017 @ 06:17:36 - > Row 5 - preparing for import.
+03-16-2017 @ 06:17:36 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:17:36 - > Inserting Colour Me Body Spray-DIAMOND
+03-16-2017 @ 06:17:36 - > Inserted - post ID is 2067.
+03-16-2017 @ 06:17:38 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/12.jpg"
+03-16-2017 @ 06:17:40 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/12.jpg"
+03-16-2017 @ 06:17:40 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/12.jpg"
+03-16-2017 @ 06:17:40 - > > Images set
+03-16-2017 @ 06:17:40 - > Finished importing post ID 2067.
+03-16-2017 @ 06:17:40 - > Row 6 - preparing for import.
+03-16-2017 @ 06:17:40 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:17:40 - > Inserting Colour Me Body Spray-SILVER SPORT
+03-16-2017 @ 06:17:40 - > Inserted - post ID is 2065.
+03-16-2017 @ 06:17:42 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/5.jpg"
+03-16-2017 @ 06:17:44 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/5.jpg"
+03-16-2017 @ 06:17:44 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/5.jpg"
+03-16-2017 @ 06:17:44 - > > Images set
+03-16-2017 @ 06:17:44 - > Finished importing post ID 2065.
+03-16-2017 @ 06:17:44 - > Row 7 - preparing for import.
+03-16-2017 @ 06:17:44 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:17:44 - > Inserting Colour Me Body Spray (COLOUR-BS-003)
+03-16-2017 @ 06:17:45 - > Inserted - post ID is 2063.
+03-16-2017 @ 06:17:47 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/3.jpg"
+03-16-2017 @ 06:17:48 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/3.jpg"
+03-16-2017 @ 06:17:48 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/3.jpg"
+03-16-2017 @ 06:17:48 - > > Images set
+03-16-2017 @ 06:17:48 - > Finished importing post ID 2063.
+03-16-2017 @ 06:17:48 - > Row 8 - preparing for import.
+03-16-2017 @ 06:17:48 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:17:48 - > Inserting COLOUR Me Body Spray (COLOR-BS-002)
+03-16-2017 @ 06:17:49 - > Inserted - post ID is 2061.
+03-16-2017 @ 06:17:51 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/2.jpg"
+03-16-2017 @ 06:17:53 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/2.jpg"
+03-16-2017 @ 06:17:53 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/2.jpg"
+03-16-2017 @ 06:17:53 - > > Images set
+03-16-2017 @ 06:17:53 - > Finished importing post ID 2061.
+03-16-2017 @ 06:17:53 - > Row 9 - preparing for import.
+03-16-2017 @ 06:17:53 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:17:53 - > Inserting Colour Me Body Spray (COLOUR-BS-001)
+03-16-2017 @ 06:17:54 - > Inserted - post ID is 2059.
+03-16-2017 @ 06:17:56 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/1-1.jpg"
+03-16-2017 @ 06:17:58 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/1-1.jpg"
+03-16-2017 @ 06:17:58 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/1-1.jpg"
+03-16-2017 @ 06:17:58 - > > Images set
+03-16-2017 @ 06:17:58 - > Finished importing post ID 2059.
+03-16-2017 @ 06:17:58 - > Row 10 - preparing for import.
+03-16-2017 @ 06:17:58 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:17:58 - > Inserting BOND STREET TALCUM POWDER-PURE WHITE
+03-16-2017 @ 06:17:58 - > Inserted - post ID is 2057.
+03-16-2017 @ 06:18:01 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/09-pure-white.jpg"
+03-16-2017 @ 06:18:02 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/09-pure-white.jpg"
+03-16-2017 @ 06:18:02 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/09-pure-white.jpg"
+03-16-2017 @ 06:18:03 - > > Images set
+03-16-2017 @ 06:18:03 - > Finished importing post ID 2057.
+03-16-2017 @ 06:18:03 - Finished processing products.
+03-16-2017 @ 06:18:07 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:18:07 - Parsing products CSV.
+03-16-2017 @ 06:18:07 - Finished parsing products CSV.
+03-16-2017 @ 06:18:07 - ---
+03-16-2017 @ 06:18:07 - Processing products.
+03-16-2017 @ 06:18:07 - > Row 1 - preparing for import.
+03-16-2017 @ 06:18:07 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:18:07 - > Inserting Bond Street Talcum Poeder -ANGEL FLOWER
+03-16-2017 @ 06:18:08 - > Inserted - post ID is 2056.
+03-16-2017 @ 06:18:10 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/07-angel-flower.jpg"
+03-16-2017 @ 06:18:12 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/07-angel-flower.jpg"
+03-16-2017 @ 06:18:12 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/07-angel-flower.jpg"
+03-16-2017 @ 06:18:12 - > > Images set
+03-16-2017 @ 06:18:12 - > Finished importing post ID 2056.
+03-16-2017 @ 06:18:12 - > Row 2 - preparing for import.
+03-16-2017 @ 06:18:12 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:18:12 - > Inserting Bond Street Talcum Poeder -Moon Dust
+03-16-2017 @ 06:18:13 - > Inserted - post ID is 2051.
+03-16-2017 @ 06:18:15 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/08-moon-dust.jpg"
+03-16-2017 @ 06:18:17 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/08-moon-dust.jpg"
+03-16-2017 @ 06:18:17 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/08-moon-dust.jpg"
+03-16-2017 @ 06:18:17 - > > Images set
+03-16-2017 @ 06:18:17 - > Finished importing post ID 2051.
+03-16-2017 @ 06:18:17 - > Row 3 - preparing for import.
+03-16-2017 @ 06:18:17 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:18:17 - > Inserting Estiara Perfume - Frio Noir Arouse - EST-FRIO-NOIR-AROUSE-100 - 100ml
+03-16-2017 @ 06:18:18 - > Inserted - post ID is 2047.
+03-16-2017 @ 06:18:20 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/24.png"
+03-16-2017 @ 06:18:23 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/24.png"
+03-16-2017 @ 06:18:23 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/24.png"
+03-16-2017 @ 06:18:23 - > > Images set
+03-16-2017 @ 06:18:23 - > Finished importing post ID 2047.
+03-16-2017 @ 06:18:23 - > Row 4 - preparing for import.
+03-16-2017 @ 06:18:23 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:18:23 - > Inserting Estiara Perfume - Fleur Noire - EST-FLEUR-NOIRE-100 - 100ml
+03-16-2017 @ 06:18:23 - > Inserted - post ID is 2045.
+03-16-2017 @ 06:18:25 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/23.png"
+03-16-2017 @ 06:18:28 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/23.png"
+03-16-2017 @ 06:18:28 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/23.png"
+03-16-2017 @ 06:18:28 - > > Images set
+03-16-2017 @ 06:18:28 - > Finished importing post ID 2045.
+03-16-2017 @ 06:18:28 - > Row 5 - preparing for import.
+03-16-2017 @ 06:18:28 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:18:28 - > Inserting Estiara Perfume - Stag - EST-STAG-100 - 100ml
+03-16-2017 @ 06:18:28 - > Inserted - post ID is 2043.
+03-16-2017 @ 06:18:31 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/21.png"
+03-16-2017 @ 06:18:34 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/21.png"
+03-16-2017 @ 06:18:34 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/21.png"
+03-16-2017 @ 06:18:34 - > > Images set
+03-16-2017 @ 06:18:34 - > Finished importing post ID 2043.
+03-16-2017 @ 06:18:34 - > Row 6 - preparing for import.
+03-16-2017 @ 06:18:34 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:18:34 - > Inserting Estiara Perfume - Stag Life - EST-STAG-LIFE-100 - 100ml
+03-16-2017 @ 06:18:35 - > Inserted - post ID is 2041.
+03-16-2017 @ 06:18:37 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/19.png"
+03-16-2017 @ 06:18:40 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/19.png"
+03-16-2017 @ 06:18:40 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/19.png"
+03-16-2017 @ 06:18:40 - > > Images set
+03-16-2017 @ 06:18:40 - > Finished importing post ID 2041.
+03-16-2017 @ 06:18:40 - > Row 7 - preparing for import.
+03-16-2017 @ 06:18:40 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:18:40 - > Inserting Estiara Perfume - Freeda - EST-FREEDA-100 - 100ml
+03-16-2017 @ 06:18:41 - > Inserted - post ID is 2039.
+03-16-2017 @ 06:18:44 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/18.png"
+03-16-2017 @ 06:18:46 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/18.png"
+03-16-2017 @ 06:18:46 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/18.png"
+03-16-2017 @ 06:18:46 - > > Images set
+03-16-2017 @ 06:18:47 - > Finished importing post ID 2039.
+03-16-2017 @ 06:18:47 - > Row 8 - preparing for import.
+03-16-2017 @ 06:18:47 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:18:47 - > Inserting EST-200-MEN-E-HOMME-100
+03-16-2017 @ 06:18:47 - > Inserted - post ID is 2037.
+03-16-2017 @ 06:18:49 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/17.png"
+03-16-2017 @ 06:18:56 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/17.png"
+03-16-2017 @ 06:18:56 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/17.png"
+03-16-2017 @ 06:18:57 - > > Images set
+03-16-2017 @ 06:18:57 - > Finished importing post ID 2037.
+03-16-2017 @ 06:18:57 - > Row 9 - preparing for import.
+03-16-2017 @ 06:18:57 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:18:57 - > Inserting Estiara Perfume - Bag Pack - EST-BAG-PACK-100 - 100ml
+03-16-2017 @ 06:18:57 - > Inserted - post ID is 2035.
+03-16-2017 @ 06:19:00 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/16.png"
+03-16-2017 @ 06:19:06 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/16.png"
+03-16-2017 @ 06:19:06 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/16.png"
+03-16-2017 @ 06:19:06 - > > Images set
+03-16-2017 @ 06:19:07 - > Finished importing post ID 2035.
+03-16-2017 @ 06:19:07 - > Row 10 - preparing for import.
+03-16-2017 @ 06:19:07 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:19:07 - > Inserting EST-MISTIC-WATER-200
+03-16-2017 @ 06:19:08 - > Inserted - post ID is 2032.
+03-16-2017 @ 06:19:11 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/15.png"
+03-16-2017 @ 06:19:13 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/15.png"
+03-16-2017 @ 06:19:13 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/15.png"
+03-16-2017 @ 06:19:14 - > > Images set
+03-16-2017 @ 06:19:14 - > Finished importing post ID 2032.
+03-16-2017 @ 06:19:14 - Finished processing products.
+03-16-2017 @ 06:19:20 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:19:20 - Parsing products CSV.
+03-16-2017 @ 06:19:20 - Finished parsing products CSV.
+03-16-2017 @ 06:19:20 - ---
+03-16-2017 @ 06:19:20 - Processing products.
+03-16-2017 @ 06:19:20 - > Row 1 - preparing for import.
+03-16-2017 @ 06:19:20 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:19:20 - > Inserting EST-ENIGMA-200
+03-16-2017 @ 06:19:21 - > Inserted - post ID is 2030.
+03-16-2017 @ 06:19:24 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/13.png"
+03-16-2017 @ 06:19:26 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/13.png"
+03-16-2017 @ 06:19:26 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/13.png"
+03-16-2017 @ 06:19:26 - > > Images set
+03-16-2017 @ 06:19:26 - > Finished importing post ID 2030.
+03-16-2017 @ 06:19:26 - > Row 2 - preparing for import.
+03-16-2017 @ 06:19:26 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:19:26 - > Inserting Estiara B/S - Valerie Black
+03-16-2017 @ 06:19:27 - > Inserted - post ID is 2028.
+03-16-2017 @ 06:19:29 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/12.png"
+03-16-2017 @ 06:19:31 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/12.png"
+03-16-2017 @ 06:19:31 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/12.png"
+03-16-2017 @ 06:19:32 - > > Images set
+03-16-2017 @ 06:19:32 - > Finished importing post ID 2028.
+03-16-2017 @ 06:19:32 - > Row 3 - preparing for import.
+03-16-2017 @ 06:19:32 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:19:32 - > Inserting EST-CELEBERITY-200
+03-16-2017 @ 06:19:32 - > Inserted - post ID is 2026.
+03-16-2017 @ 06:19:35 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/11.png"
+03-16-2017 @ 06:19:38 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/11.png"
+03-16-2017 @ 06:19:38 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/11.png"
+03-16-2017 @ 06:19:38 - > > Images set
+03-16-2017 @ 06:19:39 - > Finished importing post ID 2026.
+03-16-2017 @ 06:19:39 - > Row 4 - preparing for import.
+03-16-2017 @ 06:19:39 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:19:39 - > Inserting Estiara B/S - Life Spirit
+03-16-2017 @ 06:19:41 - > Inserted - post ID is 2024.
+03-16-2017 @ 06:19:46 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/8.png"
+03-16-2017 @ 06:19:50 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/8.png"
+03-16-2017 @ 06:19:50 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/8.png"
+03-16-2017 @ 06:19:51 - > > Images set
+03-16-2017 @ 06:19:51 - > Finished importing post ID 2024.
+03-16-2017 @ 06:19:51 - > Row 5 - preparing for import.
+03-16-2017 @ 06:19:51 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:19:51 - > Inserting ESTIARA B/S
+03-16-2017 @ 06:19:53 - > Inserted - post ID is 2022.
+03-16-2017 @ 06:20:00 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/7.png"
+03-16-2017 @ 06:20:02 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/7.png"
+03-16-2017 @ 06:20:02 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/7.png"
+03-16-2017 @ 06:20:03 - > > Images set
+03-16-2017 @ 06:20:03 - > Finished importing post ID 2022.
+03-16-2017 @ 06:20:03 - > Row 6 - preparing for import.
+03-16-2017 @ 06:20:03 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:20:03 - > Inserting ESTIARA B/S
+03-16-2017 @ 06:20:04 - > Inserted - post ID is 2018.
+03-16-2017 @ 06:20:08 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/3-4.png"
+03-16-2017 @ 06:20:10 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/3-4.png"
+03-16-2017 @ 06:20:10 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/3-4.png"
+03-16-2017 @ 06:20:11 - > > Images set
+03-16-2017 @ 06:20:11 - > Finished importing post ID 2018.
+03-16-2017 @ 06:20:11 - > Row 7 - preparing for import.
+03-16-2017 @ 06:20:11 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:20:11 - > Inserting ESTIARA B/S
+03-16-2017 @ 06:20:11 - > Inserted - post ID is 2013.
+03-16-2017 @ 06:20:14 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/4.png"
+03-16-2017 @ 06:20:16 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/4.png"
+03-16-2017 @ 06:20:16 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/4.png"
+03-16-2017 @ 06:20:17 - > > Images set
+03-16-2017 @ 06:20:17 - > Finished importing post ID 2013.
+03-16-2017 @ 06:20:17 - > Row 8 - preparing for import.
+03-16-2017 @ 06:20:17 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:20:17 - > Inserting ESTIARA B/S
+03-16-2017 @ 06:20:17 - > Inserted - post ID is 2011.
+03-16-2017 @ 06:20:22 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/2-2.png"
+03-16-2017 @ 06:20:25 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/2-2.png"
+03-16-2017 @ 06:20:25 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/2-2.png"
+03-16-2017 @ 06:20:25 - > > Images set
+03-16-2017 @ 06:20:25 - > Finished importing post ID 2011.
+03-16-2017 @ 06:20:25 - > Row 9 - preparing for import.
+03-16-2017 @ 06:20:25 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:20:25 - > Inserting ESTIARA B/S
+03-16-2017 @ 06:20:26 - > Inserted - post ID is 2009.
+03-16-2017 @ 06:20:30 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/1-1.png"
+03-16-2017 @ 06:20:32 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/1-1.png"
+03-16-2017 @ 06:20:32 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/1-1.png"
+03-16-2017 @ 06:20:32 - > > Images set
+03-16-2017 @ 06:20:32 - > Finished importing post ID 2009.
+03-16-2017 @ 06:20:32 - > Row 10 - preparing for import.
+03-16-2017 @ 06:20:32 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:20:32 - > Inserting RS OLIVE OIL POMACE: PET DRUM
+03-16-2017 @ 06:20:33 - > Inserted - post ID is 2005.
+03-16-2017 @ 06:20:35 - > Finished importing post ID 2005.
+03-16-2017 @ 06:20:35 - Finished processing products.
+03-16-2017 @ 06:20:39 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:20:39 - Parsing products CSV.
+03-16-2017 @ 06:20:39 - Finished parsing products CSV.
+03-16-2017 @ 06:20:39 - ---
+03-16-2017 @ 06:20:39 - Processing products.
+03-16-2017 @ 06:20:39 - > Row 1 - preparing for import.
+03-16-2017 @ 06:20:39 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:20:39 - > Inserting RS OLIVE OIL POMACE: PET BOTTLE
+03-16-2017 @ 06:20:39 - > Inserted - post ID is 2003.
+03-16-2017 @ 06:20:42 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/08.-RS-OLIVE-OIL-POMACE-PET-BOTTLE.jpg"
+03-16-2017 @ 06:20:43 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/08.-RS-OLIVE-OIL-POMACE-PET-BOTTLE.jpg"
+03-16-2017 @ 06:20:43 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/08.-RS-OLIVE-OIL-POMACE-PET-BOTTLE.jpg"
+03-16-2017 @ 06:20:44 - > > Images set
+03-16-2017 @ 06:20:44 - > Finished importing post ID 2003.
+03-16-2017 @ 06:20:44 - > Row 2 - preparing for import.
+03-16-2017 @ 06:20:44 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:20:44 - > Inserting RS OLIVE OIL POMACE: PET BOTTLE
+03-16-2017 @ 06:20:44 - > Inserted - post ID is 2001.
+03-16-2017 @ 06:20:46 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/07.-RS-OLIVE-OIL-POMACE-PET-BOTTLE-500ML.jpg"
+03-16-2017 @ 06:20:47 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/07.-RS-OLIVE-OIL-POMACE-PET-BOTTLE-500ML.jpg"
+03-16-2017 @ 06:20:47 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/07.-RS-OLIVE-OIL-POMACE-PET-BOTTLE-500ML.jpg"
+03-16-2017 @ 06:20:47 - > > Images set
+03-16-2017 @ 06:20:47 - > Finished importing post ID 2001.
+03-16-2017 @ 06:20:47 - > Row 3 - preparing for import.
+03-16-2017 @ 06:20:47 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:20:47 - > Inserting RS OLIVE OIL POMACE: GLASS BOTTLE
+03-16-2017 @ 06:20:47 - > Inserted - post ID is 1999.
+03-16-2017 @ 06:20:50 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/05.-RS-OLIVE-OIL-POMACE-GLASS-BOTTLE-500ML.jpg"
+03-16-2017 @ 06:20:51 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/05.-RS-OLIVE-OIL-POMACE-GLASS-BOTTLE-500ML.jpg"
+03-16-2017 @ 06:20:51 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/05.-RS-OLIVE-OIL-POMACE-GLASS-BOTTLE-500ML.jpg"
+03-16-2017 @ 06:20:52 - > > Images set
+03-16-2017 @ 06:20:52 - > Finished importing post ID 1999.
+03-16-2017 @ 06:20:52 - > Row 4 - preparing for import.
+03-16-2017 @ 06:20:52 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:20:52 - > Inserting RS OLIVE OIL POMACE: PET BOTTLE
+03-16-2017 @ 06:20:52 - > Inserted - post ID is 1997.
+03-16-2017 @ 06:20:54 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/3-2.png"
+03-16-2017 @ 06:20:57 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/3-2.png"
+03-16-2017 @ 06:20:57 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/3-2.png"
+03-16-2017 @ 06:20:57 - > > Images set
+03-16-2017 @ 06:20:57 - > Finished importing post ID 1997.
+03-16-2017 @ 06:20:57 - > Row 5 - preparing for import.
+03-16-2017 @ 06:20:57 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:20:57 - > Inserting RS OLIVE OIL POMACE: PET BOTTLE
+03-16-2017 @ 06:20:57 - > Inserted - post ID is 1995.
+03-16-2017 @ 06:20:59 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/2-1.png"
+03-16-2017 @ 06:21:02 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/2-1.png"
+03-16-2017 @ 06:21:02 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/2-1.png"
+03-16-2017 @ 06:21:02 - > > Images set
+03-16-2017 @ 06:21:02 - > Finished importing post ID 1995.
+03-16-2017 @ 06:21:02 - > Row 6 - preparing for import.
+03-16-2017 @ 06:21:02 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:21:02 - > Inserting RS OLIVE OIL POMACE: TIN
+03-16-2017 @ 06:21:02 - > Inserted - post ID is 1993.
+03-16-2017 @ 06:21:04 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/1.png"
+03-16-2017 @ 06:21:08 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/1.png"
+03-16-2017 @ 06:21:08 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/1.png"
+03-16-2017 @ 06:21:08 - > > Images set
+03-16-2017 @ 06:21:08 - > Finished importing post ID 1993.
+03-16-2017 @ 06:21:08 - > Row 7 - preparing for import.
+03-16-2017 @ 06:21:08 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:21:08 - > Inserting PERFUMER&#039;S CHOICE PERFUME
+03-16-2017 @ 06:21:08 - > Inserted - post ID is 1980.
+03-16-2017 @ 06:21:11 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/8c.jpeg"
+03-16-2017 @ 06:21:13 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/8c.jpeg"
+03-16-2017 @ 06:21:13 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/8c.jpeg"
+03-16-2017 @ 06:21:13 - > > Images set
+03-16-2017 @ 06:21:13 - > Finished importing post ID 1980.
+03-16-2017 @ 06:21:13 - > Row 8 - preparing for import.
+03-16-2017 @ 06:21:13 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:21:13 - > Inserting PERFUMER&#039;S CHOICE PERFUME
+03-16-2017 @ 06:21:14 - > Inserted - post ID is 1978.
+03-16-2017 @ 06:21:16 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/7c.png"
+03-16-2017 @ 06:21:19 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/7c.png"
+03-16-2017 @ 06:21:19 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/7c.png"
+03-16-2017 @ 06:21:19 - > > Images set
+03-16-2017 @ 06:21:19 - > Finished importing post ID 1978.
+03-16-2017 @ 06:21:19 - > Row 9 - preparing for import.
+03-16-2017 @ 06:21:19 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:21:19 - > Inserting PERFUMER&#039;S CHOICE PERFUMEPC-Jean-EMILIE-83
+03-16-2017 @ 06:21:20 - > Inserted - post ID is 1976.
+03-16-2017 @ 06:21:22 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/7c.png"
+03-16-2017 @ 06:21:24 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/7c.png"
+03-16-2017 @ 06:21:24 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/7c.png"
+03-16-2017 @ 06:21:25 - > > Images set
+03-16-2017 @ 06:21:25 - > Finished importing post ID 1976.
+03-16-2017 @ 06:21:25 - > Row 10 - preparing for import.
+03-16-2017 @ 06:21:25 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:21:25 - > Inserting PERFUMER&#039;S CHOICE PERFUME
+03-16-2017 @ 06:21:25 - > Inserted - post ID is 1973.
+03-16-2017 @ 06:21:27 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/5.png"
+03-16-2017 @ 06:21:30 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/5.png"
+03-16-2017 @ 06:21:30 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/5.png"
+03-16-2017 @ 06:21:30 - > > Images set
+03-16-2017 @ 06:21:31 - > Finished importing post ID 1973.
+03-16-2017 @ 06:21:31 - Finished processing products.
+03-16-2017 @ 06:21:35 - ---[ New Import ] PHP Memory: 4 GB, WP Memory: 40 MB
+03-16-2017 @ 06:21:35 - Parsing products CSV.
+03-16-2017 @ 06:21:35 - Finished parsing products CSV.
+03-16-2017 @ 06:21:35 - ---
+03-16-2017 @ 06:21:35 - Processing products.
+03-16-2017 @ 06:21:35 - > Row 1 - preparing for import.
+03-16-2017 @ 06:21:35 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:21:35 - > Inserting PERFUMER&#039;S CHOICE PERFUME
+03-16-2017 @ 06:21:35 - > Inserted - post ID is 1971.
+03-16-2017 @ 06:21:38 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/2.png"
+03-16-2017 @ 06:21:40 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/2.png"
+03-16-2017 @ 06:21:40 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/2.png"
+03-16-2017 @ 06:21:40 - > > Images set
+03-16-2017 @ 06:21:40 - > Finished importing post ID 1971.
+03-16-2017 @ 06:21:40 - > Row 2 - preparing for import.
+03-16-2017 @ 06:21:40 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:21:40 - > Inserting PERFUMER&#039;S CHOICE PERFUME
+03-16-2017 @ 06:21:40 - > Inserted - post ID is 1967.
+03-16-2017 @ 06:21:43 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/3-1.png"
+03-16-2017 @ 06:21:46 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/3-1.png"
+03-16-2017 @ 06:21:46 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/3-1.png"
+03-16-2017 @ 06:21:46 - > > Images set
+03-16-2017 @ 06:21:46 - > Finished importing post ID 1967.
+03-16-2017 @ 06:21:46 - > Row 3 - preparing for import.
+03-16-2017 @ 06:21:46 - > > > Product type "simple product" not allowed - using simple.
+03-16-2017 @ 06:21:46 - > Inserting Black magic mug
+03-16-2017 @ 06:21:47 - > Inserted - post ID is 1930.
+03-16-2017 @ 06:21:49 - > > Importing image "http://melabazar.com/wp-content/uploads/2016/09/magic-mug.jpg"
+03-16-2017 @ 06:21:52 - > > Inserted image attachment "http://melabazar.com/wp-content/uploads/2016/09/magic-mug.jpg"
+03-16-2017 @ 06:21:52 - > > Imported image "http://melabazar.com/wp-content/uploads/2016/09/magic-mug.jpg"
+03-16-2017 @ 06:21:52 - > > Images set
+03-16-2017 @ 06:21:52 - > Finished importing post ID 1930.
+03-16-2017 @ 06:21:52 - Finished processing products.

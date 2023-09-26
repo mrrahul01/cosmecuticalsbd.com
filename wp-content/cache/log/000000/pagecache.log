@@ -1,0 +1,36 @@
+[Tue, 25 Jul 2017 11:21:23 +0000] [/melabazar/wp-admin/admin.php?page=w3tc_general&w3tc_message=597729b3bc4ef] [http://localhost/melabazar/wp-admin/admin.php?page=w3tc_general&w3tc_message=59772977839e5] skip processing because of generic constant
+[Tue, 25 Jul 2017 11:21:27 +0000] [/melabazar/wp-admin/admin-ajax.php] [http://localhost/melabazar/wp-admin/admin.php?page=w3tc_general&w3tc_message=59772977839e5] skip processing because of generic constant
+[Tue, 25 Jul 2017 11:21:54 +0000] [/melabazar/wp-admin/admin.php?page=w3tc_general] [http://localhost/melabazar/wp-admin/admin.php?page=w3tc_general&w3tc_message=597729b3bc4ef] skip processing because of generic constant
+[Tue, 25 Jul 2017 11:21:56 +0000] [/melabazar/wp-admin/admin.php?page=w3tc_general&w3tc_message=597729d4a67bc] [http://localhost/melabazar/wp-admin/admin.php?page=w3tc_general&w3tc_message=597729b3bc4ef] skip processing because of generic constant
+[Tue, 25 Jul 2017 11:22:09 +0000] [/melabazar/wp-admin/admin-ajax.php] [http://localhost/melabazar/wp-admin/admin.php?page=w3tc_dbcache&w3tc_message=597729a1d7f85] skip processing because of generic constant
+[Tue, 25 Jul 2017 11:22:17 +0000] [/melabazar/wp-admin/admin.php?page=w3tc_dashboard] [http://localhost/melabazar/wp-admin/admin.php?page=w3tc_dbcache&w3tc_message=597729a1d7f85] skip processing because of generic constant
+[Tue, 25 Jul 2017 11:22:23 +0000] [/melabazar/wp-admin/admin-ajax.php?action=w3tc_ajax&_wpnonce=f20e34f11f&w3tc_action=newrelic_widgetdata_basic] [http://localhost/melabazar/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Tue, 25 Jul 2017 11:22:23 +0000] [/melabazar/wp-admin/admin-ajax.php?action=w3tc_ajax&_wpnonce=f20e34f11f&w3tc_action=pagespeed_widgetdata] [http://localhost/melabazar/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Tue, 25 Jul 2017 11:22:24 +0000] [/melabazar/wp-admin/admin-ajax.php?action=w3tc_widget_latest_ajax&_wpnonce=f20e34f11f] [http://localhost/melabazar/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Tue, 25 Jul 2017 11:22:24 +0000] [/melabazar/wp-admin/admin-ajax.php?action=w3tc_widget_latest_news_ajax&_wpnonce=f20e34f11f] [http://localhost/melabazar/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Tue, 25 Jul 2017 11:22:52 +0000] [/melabazar/] [http://localhost/melabazar/wp-admin/index.php] start, can_cache: false
+[Tue, 25 Jul 2017 11:23:24 +0000] [/melabazar/wp-admin/admin-ajax.php] [http://localhost/melabazar/wp-admin/index.php] skip processing because of generic constant
+[Tue, 25 Jul 2017 11:23:24 +0000] [/melabazar/wp-admin/admin-ajax.php] [http://localhost/melabazar/wp-admin/admin.php?page=w3tc_dashboard] skip processing because of generic constant
+[Tue, 25 Jul 2017 11:23:37 +0000] [/melabazar/] [http://localhost/melabazar/wp-admin/index.php] storing cached page: false original false reason User is logged in
+[Tue, 25 Jul 2017 11:23:37 +0000] [/melabazar/wp-content/cache/minify/3d93f.css] [http://localhost/melabazar/] start, can_cache: false
+[Tue, 25 Jul 2017 11:23:37 +0000] [/melabazar/wp-content/cache/minify/1c090.js] [http://localhost/melabazar/] start, can_cache: false
+[Tue, 25 Jul 2017 11:23:37 +0000] [/melabazar/wp-content/cache/minify/df931.js] [http://localhost/melabazar/] start, can_cache: false
+[Tue, 25 Jul 2017 11:23:38 +0000] [/melabazar/wp-content/cache/minify/86785.js] [http://localhost/melabazar/] start, can_cache: false
+[Tue, 25 Jul 2017 11:23:41 +0000] [/melabazar/wp-content/cache/minify/3d93f.css] [http://localhost/melabazar/] storing cached page - not a cached content
+[Tue, 25 Jul 2017 11:23:42 +0000] [/melabazar/wp-content/cache/minify/df931.js] [http://localhost/melabazar/] storing cached page - not a cached content
+[Tue, 25 Jul 2017 11:23:42 +0000] [/melabazar/wp-content/cache/minify/1c090.js] [http://localhost/melabazar/] storing cached page - not a cached content
+[Tue, 25 Jul 2017 11:23:42 +0000] [/melabazar/wp-content/cache/minify/86785.js] [http://localhost/melabazar/] storing cached page - not a cached content
+[Tue, 25 Jul 2017 11:23:42 +0000] [/melabazar/wp-content/themes/sw-maxshop/assets/img/sale-label-product.png] [http://localhost/melabazar/wp-content/cache/minify/3d93f.css] start, can_cache: false
+[Tue, 25 Jul 2017 11:23:43 +0000] [/melabazar/wp-content/cache/minify/2b47e.js] [http://localhost/melabazar/] start, can_cache: false
+[Tue, 25 Jul 2017 11:23:43 +0000] [/melabazar/wp-content/cache/minify/2ce5c.js] [http://localhost/melabazar/] start, can_cache: false
+[Tue, 25 Jul 2017 11:23:43 +0000] [/melabazar/wp-content/cache/minify/6b6b0.js] [http://localhost/melabazar/] start, can_cache: false
+[Tue, 25 Jul 2017 11:23:43 +0000] [/melabazar/wp-content/cache/minify/1f49d.js] [http://localhost/melabazar/] start, can_cache: false
+[Tue, 25 Jul 2017 11:23:43 +0000] [/melabazar/wp-content/cache/minify/1060c.js] [http://localhost/melabazar/] start, can_cache: false
+[Tue, 25 Jul 2017 11:23:58 +0000] [/melabazar/wp-content/cache/minify/1060c.js] [http://localhost/melabazar/] storing cached page - not a cached content
+[Tue, 25 Jul 2017 11:23:59 +0000] [/melabazar/wp-content/cache/minify/52b6c.js] [http://localhost/melabazar/] start, can_cache: false
+[Tue, 25 Jul 2017 11:24:04 +0000] [/melabazar/wp-content/themes/sw-maxshop/assets/img/sale-label-product.png] [http://localhost/melabazar/wp-content/cache/minify/3d93f.css] storing cached page: false original false reason User is logged in
+[Tue, 25 Jul 2017 11:24:04 +0000] [/melabazar/wp-content/cache/minify/2b47e.js] [http://localhost/melabazar/] storing cached page - not a cached content
+[Tue, 25 Jul 2017 11:24:05 +0000] [/melabazar/wp-content/cache/minify/2ce5c.js] [http://localhost/melabazar/] storing cached page - not a cached content
+[Tue, 25 Jul 2017 11:24:05 +0000] [/melabazar/wp-content/cache/minify/1f49d.js] [http://localhost/melabazar/] storing cached page - not a cached content
+[Tue, 25 Jul 2017 11:24:05 +0000] [/melabazar/wp-content/cache/minify/6b6b0.js] [http://localhost/melabazar/] storing cached page - not a cached content
+[Tue, 25 Jul 2017 11:24:25 +0000] [/melabazar/wp-content/cache/minify/52b6c.js] [http://localhost/melabazar/] storing cached page - not a cached content
